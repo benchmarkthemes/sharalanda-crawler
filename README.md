@@ -24,7 +24,7 @@ Just the leaderboard — array index is theme store position:
 ### Details (daily)
 
 One object per theme, in ranking order, with the listing card data plus everything scraped from the
-theme's own page:
+theme's own page (the "What's included" feature list is deliberately not collected):
 
 ```jsonc
 {
@@ -46,8 +46,7 @@ theme's own page:
   "usps": [{ "title": "Shine like a diamond", "description": "Expertly crafted to …" }],
   "presets": ["Prestige", "Couture", "Vogue", "Strass", "Signature"],
   "presetCount": 5,
-  "reviews": { "positiveRate": 91, "count": 859, "breakdown": { "positive": 781, "neutral": 14, "negative": 64 } },
-  "features": { "Cart and checkout": ["Cart notes", "…"] }
+  "reviews": { "positiveRate": 91, "count": 859, "breakdown": { "positive": 781, "neutral": 14, "negative": 64 } }
 }
 ```
 
@@ -67,7 +66,8 @@ node scripts/crawl-theme-details.mjs  # ~15 min (~1,200 detail pages)
 - Parsing is regex-based against the theme store's server-rendered HTML. The selectors live in
   `scripts/lib/theme-store.mjs` and the `parse*` functions in `scripts/crawl-theme-details.mjs`;
   a store redesign is the thing most likely to break a run.
-- Requests are throttled (750ms between listing pages; 3 workers with a 300ms gap for detail pages)
-  and retried with exponential backoff.
+- Requests are throttled (750ms between listing pages; 2 workers with a 700ms gap for detail pages).
+  The store starts returning 429 above roughly 2 requests/second. A 429 or 5xx trips a *shared*
+  cooldown — every worker waits, honouring `Retry-After` when sent — before retrying.
 - Both workflows need **Settings → Actions → General → Workflow permissions** set to *Read and
   write* so the bot can commit results.

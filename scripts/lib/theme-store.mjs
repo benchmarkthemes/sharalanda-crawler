@@ -34,10 +34,24 @@ export function match(html, re) {
   return m ? text(m[1]) : null;
 }
 
-export async function fetchHtml(url, { retries = 4, timeoutMs = 30000 } = {}) {
+/**
+ * Shared cooldown gate. A 429 means the *whole* crawl is going too fast, so
+ * every in-flight worker waits it out rather than each backing off alone.
+ */
+let cooldownUntil = 0;
+
+const waitForCooldown = async () => {
+  while (Date.now() < cooldownUntil) {
+    await sleep(cooldownUntil - Date.now());
+  }
+};
+
+export async function fetchHtml(url, { retries = 6, timeoutMs = 30000 } = {}) {
   let lastError;
 
   for (let attempt = 1; attempt <= retries; attempt++) {
+    await waitForCooldown();
+
     try {
       const res = await fetch(url, {
         redirect: 'follow',
@@ -48,7 +62,19 @@ export async function fetchHtml(url, { retries = 4, timeoutMs = 30000 } = {}) {
           'accept-language': 'en-US,en;q=0.9',
         },
       });
+
       if (res.status === 404) return null;
+
+      if (res.status === 429 || res.status >= 500) {
+        // Honour Retry-After when present, else back off hard: 15s, 30s, 60s…
+        const retryAfter = Number(res.headers.get('retry-after'));
+        const waitMs = Number.isFinite(retryAfter) && retryAfter > 0
+          ? retryAfter * 1000
+          : Math.min(15000 * 2 ** (attempt - 1), 120000);
+        cooldownUntil = Math.max(cooldownUntil, Date.now() + waitMs);
+        throw new Error(`HTTP ${res.status} for ${url}`);
+      }
+
       if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
       return await res.text();
     } catch (err) {

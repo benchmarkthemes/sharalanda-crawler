@@ -24,8 +24,10 @@ import {
 } from './lib/theme-store.mjs';
 
 const OUT_DIR = path.resolve('data');
-const CONCURRENCY = 3;
-const DELAY_MS = 300; // per worker, between detail pages
+// The store rate-limits above roughly 2 requests/second; 2 workers with a
+// 700ms gap keeps us under it. fetchHtml() adds a shared cooldown on 429.
+const CONCURRENCY = 2;
+const DELAY_MS = 700; // per worker, between detail pages
 const MAX_FAILURE_RATE = 0.1;
 
 function parseUsps(html) {
@@ -53,25 +55,6 @@ function parseReviews(html) {
   };
 }
 
-function parseFeatures(html) {
-  const section = html.match(/id="features"([\s\S]*?)(?=<div[^>]*\sid="|$)/)?.[1];
-  if (!section) return {};
-
-  const features = {};
-  const groupRe = /<h3[^>]*>([\s\S]*?)<\/h3>([\s\S]*?)<\/ul>/g;
-
-  for (const [, rawCategory, body] of section.matchAll(groupRe)) {
-    const category = text(rawCategory);
-    if (!category) continue;
-    const items = [...body.matchAll(/<li[^>]*>([\s\S]*?)<\/li>/g)]
-      .map(([, li]) => text(li))
-      .filter(Boolean);
-    // The page renders the list twice (mobile accordion + desktop columns).
-    if (items.length) features[category] = [...new Set([...(features[category] ?? []), ...items])];
-  }
-  return features;
-}
-
 /**
  * Themes with a single preset have no Presets section at all; multi-preset
  * themes render a card stack, each card labelled `View <preset>`.
@@ -90,17 +73,17 @@ function parsePresets(html) {
 }
 
 export function parseDetail(html) {
-  const priceBlock = html.match(
-    /<p class="tw-text-heading-3xl[^"]*">\s*([^<]*?)\s*<span[^>]*>([A-Z]{3})<\/span>/,
-  );
+  // Paid themes render "$250 <span>USD</span>"; free themes just "Free".
+  const priceBlock = html.match(/<p class="tw-text-heading-3xl[^"]*">([\s\S]*?)<\/p>/)?.[1];
+  const currency = priceBlock?.match(/<span[^>]*>([A-Z]{3})<\/span>/)?.[1] ?? null;
 
   return {
     strapline: match(html, /<p class="[^"]*tw-text-heading-xl[^"]*tw-text-fg-secondary[^"]*">([\s\S]*?)<\/p>/),
     metaDescription: match(html, /<meta name="description" content="([^"]*)"/),
     author: match(html, /by\s*<a[^>]*href="#ReleaseNotes"[^>]*>([\s\S]*?)<\/a>/),
     authorUrl: html.match(/href="(\/designers\/[^"]+)"/)?.[1] ?? null,
-    displayPrice: priceBlock ? text(priceBlock[1]) : null,
-    currency: priceBlock ? priceBlock[2] : null,
+    displayPrice: priceBlock ? text(priceBlock.replace(/<span[^>]*>[A-Z]{3}<\/span>/, '')) : null,
+    currency,
     version: match(html, /<h3[^>]*>\s*Version ([^<]*?)\s*<\/h3>/),
     lastUpdated: match(html, /<h3[^>]*>\s*Version [^<]*?<\/h3>[\s\S]{0,200}?<span>\s*([^<]*?)\s*<\/span>/),
     themeId: toNumber(html.match(/data-monorail-click-tracking-theme-id-value="(\d+)"/)?.[1]),
@@ -108,7 +91,6 @@ export function parseDetail(html) {
     presets: parsePresets(html),
     presetCount: toNumber(html.match(/--presets-count:\s*(\d+)/)?.[1]) ?? 1,
     reviews: parseReviews(html),
-    features: parseFeatures(html),
   };
 }
 
