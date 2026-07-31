@@ -72,6 +72,43 @@ function parsePresets(html) {
   return [...names];
 }
 
+const MONTHS = {
+  january: 1, february: 2, march: 3, april: 4, may: 5, june: 6,
+  july: 7, august: 8, september: 9, october: 10, november: 11, december: 12,
+};
+
+/** "June  1, 2018" -> "2018-06-01" (the store pads single-digit days). */
+function toIsoDate(value) {
+  const m = value?.match(/([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})/);
+  const month = m && MONTHS[m[1].toLowerCase()];
+  if (!month) return null;
+  return `${m[3]}-${String(month).padStart(2, '0')}-${m[2].padStart(2, '0')}`;
+}
+
+/**
+ * The version-details modal lists every release, newest first. The oldest
+ * entry is the theme's launch; it is normally 1.0.0 but a few themes joined
+ * the store at a later version.
+ */
+export function parseVersionHistory(html) {
+  const releases = [];
+  const releaseRe =
+    /<h3[^>]*>\s*Version ([^<]*?)\s*<\/h3>\s*<p[^>]*>\s*([^<]*?)\s*<\/p>/g;
+
+  for (const [, version, rawDate] of html.matchAll(releaseRe)) {
+    releases.push({ version, date: toIsoDate(rawDate) });
+  }
+  if (releases.length === 0) return null;
+
+  const first = releases.find((r) => r.version === '1.0.0') ?? releases[releases.length - 1];
+
+  return {
+    launchedAt: first.date,
+    launchVersion: first.version,
+    releaseCount: releases.length,
+  };
+}
+
 export function parseDetail(html) {
   // Paid themes render "$250 <span>USD</span>"; free themes just "Free".
   const priceBlock = html.match(/<p class="tw-text-heading-3xl[^"]*">([\s\S]*?)<\/p>/)?.[1];
@@ -87,6 +124,7 @@ export function parseDetail(html) {
     version: match(html, /<h3[^>]*>\s*Version ([^<]*?)\s*<\/h3>/),
     lastUpdated: match(html, /<h3[^>]*>\s*Version [^<]*?<\/h3>[\s\S]{0,200}?<span>\s*([^<]*?)\s*<\/span>/),
     themeId: toNumber(html.match(/data-monorail-click-tracking-theme-id-value="(\d+)"/)?.[1]),
+    presetUrl: html.match(/<meta property="og:url" content="([^"]+)"/)?.[1] ?? null,
     usps: parseUsps(html),
     presets: parsePresets(html),
     presetCount: toNumber(html.match(/--presets-count:\s*(\d+)/)?.[1]) ?? 1,
@@ -102,6 +140,7 @@ async function main() {
   console.log(`Found ${cards.length} themes. Fetching detail pages…\n`);
 
   const failures = [];
+  const historyFailures = [];
   let done = 0;
 
   const themes = await mapWithConcurrency(cards, CONCURRENCY, async (card, index) => {
@@ -111,6 +150,18 @@ async function main() {
       const html = card.url ? await fetchHtml(card.url) : null;
       if (!html) throw new Error('detail page not available');
       Object.assign(base, parseDetail(html));
+
+      // Launch date lives in the version-details modal, not the detail page.
+      if (base.presetUrl) {
+        await sleep(DELAY_MS);
+        // This endpoint returns a Turbo Stream and 404s unless Accept is */*.
+        const historyHtml = await fetchHtml(`${base.presetUrl}/modal_version_details`, {
+          accept: '*/*',
+        });
+        const history = historyHtml ? parseVersionHistory(historyHtml) : null;
+        if (history) Object.assign(base, history);
+        else historyFailures.push(card.name);
+      }
     } catch (err) {
       failures.push({ name: card.name, handle: card.handle, error: err.message });
       base.error = err.message;
@@ -144,6 +195,8 @@ async function main() {
         failures,
         withStrapline: themes.filter((t) => t.strapline).length,
         withThreeUsps: themes.filter((t) => t.usps?.length === 3).length,
+        withLaunchDate: themes.filter((t) => t.launchedAt).length,
+        historyFailureCount: historyFailures.length,
       },
       null,
       2,

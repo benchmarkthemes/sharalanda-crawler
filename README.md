@@ -42,6 +42,9 @@ theme's own page (the "What's included" feature list is deliberately not collect
   "authorUrl": "/designers/maestrooo",
   "version": "11.4.0",
   "lastUpdated": "July 03, 2026",
+  "launchedAt": "2018-06-01",
+  "launchVersion": "1.0.0",
+  "releaseCount": 190,
   "themeId": 855,
   "usps": [{ "title": "Shine like a diamond", "description": "Expertly crafted to …" }],
   "presets": ["Prestige", "Couture", "Vogue", "Strass", "Signature"],
@@ -49,6 +52,13 @@ theme's own page (the "What's included" feature list is deliberately not collect
   "reviews": { "positiveRate": 91, "count": 859, "breakdown": { "positive": 781, "neutral": 14, "negative": 64 } }
 }
 ```
+
+`launchedAt` is the date of the theme's oldest release, read from its version-history modal
+(`…/presets/<preset>/modal_version_details`, which needs `Accept: */*` — it 404s on `text/html`).
+That is usually when `1.0.0` went live, but some long-standing themes have no `1.0.0` in their
+history — Dawn's oldest entry is `2.0.0` (2021-08-31) and District's is `2.0.0` (2017-01-17) — so
+the oldest release is used instead and `launchVersion` records which version that was. This costs a
+second request per theme, roughly doubling the run time.
 
 A theme whose detail page fails after retries still gets a row — with the listing card fields and an
 `error` string — so one bad page doesn't lose a ranking slot. If more than 10% of detail pages fail,

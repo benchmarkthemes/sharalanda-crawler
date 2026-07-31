@@ -46,7 +46,10 @@ const waitForCooldown = async () => {
   }
 };
 
-export async function fetchHtml(url, { retries = 6, timeoutMs = 30000 } = {}) {
+export async function fetchHtml(
+  url,
+  { retries = 6, timeoutMs = 30000, accept = 'text/html,application/xhtml+xml' } = {},
+) {
   let lastError;
 
   for (let attempt = 1; attempt <= retries; attempt++) {
@@ -58,7 +61,7 @@ export async function fetchHtml(url, { retries = 6, timeoutMs = 30000 } = {}) {
         signal: AbortSignal.timeout(timeoutMs),
         headers: {
           'user-agent': USER_AGENT,
-          accept: 'text/html,application/xhtml+xml',
+          accept,
           'accept-language': 'en-US,en;q=0.9',
         },
       });
