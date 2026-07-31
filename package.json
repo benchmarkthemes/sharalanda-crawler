@@ -1,0 +1,12 @@
+{
+  "name": "sharalanda-crawler",
+  "version": "1.0.0",
+  "description": "Crawls the Shopify theme store and tracks theme positions",
+  "main": "crawler.js",
+  "scripts": {
+    "start": "node crawler.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

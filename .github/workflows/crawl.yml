@@ -1,0 +1,39 @@
+name: Crawl Shopify Theme Store
+
+on:
+  schedule:
+    # Run at the top of every hour
+    - cron: '0 * * * *'
+  # Allow manual runs for testing
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run crawler
+        run: node crawler.js
+
+      - name: Commit and push themes.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add themes.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update themes.json [skip ci]"
+            git push
+          else
+            echo "themes.json is already up to date, nothing to commit."
+          fi
