@@ -1,0 +1,40 @@
+name: Crawl Shopify Theme Details
+
+on:
+  schedule:
+    - cron: '30 3 * * *' # daily at 03:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl-theme-details
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Crawl theme detail pages
+        run: node scripts/crawl-theme-details.mjs
+
+      - name: Commit details
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash
+          git add data/theme-details.json data/theme-details.meta.json
+          if git diff --staged --quiet; then
+            echo "No detail changes."
+          else
+            git commit -m "chore: update Shopify theme details"
+            git push
+          fi
