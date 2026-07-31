@@ -5514,51 +5514,6 @@
   },
   {
     "position": 111,
-    "name": "Kinderly",
-    "handle": "kinderly",
-    "url": "https://themes.shopify.com/themes/kinderly",
-    "price": 350,
-    "isFree": false,
-    "badge": "New",
-    "positiveRate": null,
-    "image": "https://cdn.shopify.com/theme-store/25j1ul5ykpgxjkhzqld0ft36cpic.jpg",
-    "strapline": "The playful, parent-friendly theme made for kids fashion brands.",
-    "metaDescription": "View demo of Kinderly and install in your store.",
-    "author": "Sia",
-    "authorUrl": "/designers/sia12",
-    "displayPrice": "$350",
-    "currency": "USD",
-    "version": "1.0.0",
-    "lastUpdated": "July 09, 2026",
-    "themeId": 4518,
-    "usps": [
-      {
-        "title": "Whimsical Storybook Layouts",
-        "description": "Playful, story-driven layouts make every outfit feel like a fairytale—perfect for brands that spark imagination and joy in young shoppers."
-      },
-      {
-        "title": "Built for Busy Parents",
-        "description": "From school runs to bedtime, your store is always ready. Lightning-quick navigation and touch-friendly layouts turn every scroll into a sale"
-      },
-      {
-        "title": "Eco-Conscious Shopping",
-        "description": "Built-in badges, transparency sections, and storytelling blocks connect your eco-friendly mission with parents who shop with purpose."
-      }
-    ],
-    "presets": [],
-    "presetCount": 1,
-    "reviews": {
-      "positiveRate": null,
-      "count": null,
-      "breakdown": {
-        "positive": null,
-        "neutral": null,
-        "negative": null
-      }
-    }
-  },
-  {
-    "position": 112,
     "name": "Whiff",
     "handle": "eurus",
     "url": "https://themes.shopify.com/themes/eurus",
@@ -5609,7 +5564,7 @@
     }
   },
   {
-    "position": 113,
+    "position": 112,
     "name": "Space",
     "handle": "space",
     "url": "https://themes.shopify.com/themes/space",
@@ -5660,7 +5615,7 @@
     }
   },
   {
-    "position": 114,
+    "position": 113,
     "name": "Emerge",
     "handle": "emerge",
     "url": "https://themes.shopify.com/themes/emerge",
@@ -5709,7 +5664,7 @@
     }
   },
   {
-    "position": 115,
+    "position": 114,
     "name": "Monaco",
     "handle": "monaco",
     "url": "https://themes.shopify.com/themes/monaco",
@@ -5760,7 +5715,7 @@
     }
   },
   {
-    "position": 116,
+    "position": 115,
     "name": "Strass",
     "handle": "prestige",
     "url": "https://themes.shopify.com/themes/prestige",
@@ -5807,6 +5762,51 @@
         "positive": 781,
         "neutral": 14,
         "negative": 64
+      }
+    }
+  },
+  {
+    "position": 116,
+    "name": "Kinderly",
+    "handle": "kinderly",
+    "url": "https://themes.shopify.com/themes/kinderly",
+    "price": 350,
+    "isFree": false,
+    "badge": "New",
+    "positiveRate": null,
+    "image": "https://cdn.shopify.com/theme-store/25j1ul5ykpgxjkhzqld0ft36cpic.jpg",
+    "strapline": "The playful, parent-friendly theme made for kids fashion brands.",
+    "metaDescription": "View demo of Kinderly and install in your store.",
+    "author": "Sia",
+    "authorUrl": "/designers/sia12",
+    "displayPrice": "$350",
+    "currency": "USD",
+    "version": "1.0.0",
+    "lastUpdated": "July 09, 2026",
+    "themeId": 4518,
+    "usps": [
+      {
+        "title": "Whimsical Storybook Layouts",
+        "description": "Playful, story-driven layouts make every outfit feel like a fairytale—perfect for brands that spark imagination and joy in young shoppers."
+      },
+      {
+        "title": "Built for Busy Parents",
+        "description": "From school runs to bedtime, your store is always ready. Lightning-quick navigation and touch-friendly layouts turn every scroll into a sale"
+      },
+      {
+        "title": "Eco-Conscious Shopping",
+        "description": "Built-in badges, transparency sections, and storytelling blocks connect your eco-friendly mission with parents who shop with purpose."
+      }
+    ],
+    "presets": [],
+    "presetCount": 1,
+    "reviews": {
+      "positiveRate": null,
+      "count": null,
+      "breakdown": {
+        "positive": null,
+        "neutral": null,
+        "negative": null
       }
     }
   },
