@@ -1,0 +1,38 @@
+name: Crawl Shopify Theme Store
+
+on:
+  schedule:
+    - cron: '0 * * * *' # hourly, on the hour (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl-theme-store
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Crawl theme store
+        run: node scripts/crawl-theme-store.mjs
+
+      - name: Commit rankings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/theme-rankings.json data/theme-rankings.meta.json
+          if git diff --staged --quiet; then
+            echo "No ranking changes."
+          else
+            git commit -m "chore: update Shopify theme store rankings"
+            git push
+          fi
