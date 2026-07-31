@@ -1,8 +1,10 @@
 {
-  "crawledAt": "2026-07-31T17:08:50.887Z",
-  "themeCount": 1225,
+  "crawledAt": "2026-07-31T18:45:45.708Z",
+  "themeCount": 1228,
   "failureCount": 0,
   "failures": [],
-  "withStrapline": 1225,
-  "withThreeUsps": 1203
+  "withStrapline": 1228,
+  "withThreeUsps": 1206,
+  "withLaunchDate": 1228,
+  "historyFailureCount": 0
 }
