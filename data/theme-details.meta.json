@@ -1,31 +1,10 @@
 {
-  "crawledAt": "2026-08-09T04:25:58.900Z",
+  "crawledAt": "2026-08-10T04:32:25.600Z",
   "themeCount": 1228,
-  "failureCount": 4,
-  "failures": [
-    {
-      "name": "Split",
-      "handle": "split",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/split"
-    },
-    {
-      "name": "Atlantic",
-      "handle": "atlantic",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
-    },
-    {
-      "name": "Apex",
-      "handle": "athens",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/athens"
-    },
-    {
-      "name": "Lorenza",
-      "handle": "lorenza",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/lorenza"
-    }
-  ],
-  "withStrapline": 1224,
-  "withThreeUsps": 1202,
-  "withLaunchDate": 1224,
+  "failureCount": 0,
+  "failures": [],
+  "withStrapline": 1228,
+  "withThreeUsps": 1206,
+  "withLaunchDate": 1228,
   "historyFailureCount": 0
 }
