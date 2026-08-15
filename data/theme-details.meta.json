@@ -1,10 +1,16 @@
 {
-  "crawledAt": "2026-08-14T04:39:55.975Z",
+  "crawledAt": "2026-08-15T04:11:53.424Z",
   "themeCount": 1230,
-  "failureCount": 0,
-  "failures": [],
-  "withStrapline": 1230,
-  "withThreeUsps": 1208,
-  "withLaunchDate": 1230,
+  "failureCount": 1,
+  "failures": [
+    {
+      "name": "Cedar",
+      "handle": "canopy",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/canopy"
+    }
+  ],
+  "withStrapline": 1229,
+  "withThreeUsps": 1207,
+  "withLaunchDate": 1229,
   "historyFailureCount": 0
 }
