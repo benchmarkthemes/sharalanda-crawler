@@ -1,16 +1,36 @@
 {
-  "crawledAt": "2026-08-15T04:11:53.424Z",
+  "crawledAt": "2026-08-16T04:10:57.685Z",
   "themeCount": 1230,
-  "failureCount": 1,
+  "failureCount": 5,
   "failures": [
     {
-      "name": "Cedar",
-      "handle": "canopy",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/canopy"
+      "name": "Xtra",
+      "handle": "xtra",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/xtra"
+    },
+    {
+      "name": "Spark",
+      "handle": "spark",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/spark"
+    },
+    {
+      "name": "Vault",
+      "handle": "xtra",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/xtra"
+    },
+    {
+      "name": "Spoke",
+      "handle": "athens",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/athens"
+    },
+    {
+      "name": "Cotton",
+      "handle": "atlantic",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
     }
   ],
-  "withStrapline": 1229,
-  "withThreeUsps": 1207,
-  "withLaunchDate": 1229,
+  "withStrapline": 1225,
+  "withThreeUsps": 1203,
+  "withLaunchDate": 1225,
   "historyFailureCount": 0
 }
