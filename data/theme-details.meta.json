@@ -1,21 +1,31 @@
 {
-  "crawledAt": "2026-08-17T04:12:48.350Z",
-  "themeCount": 1230,
-  "failureCount": 2,
+  "crawledAt": "2026-08-18T04:13:50.021Z",
+  "themeCount": 1231,
+  "failureCount": 4,
   "failures": [
     {
-      "name": "Xtra",
-      "handle": "xtra",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/xtra"
+      "name": "Lorenza",
+      "handle": "lorenza",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/lorenza"
     },
     {
-      "name": "Drawer",
-      "handle": "split",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/split"
+      "name": "Aria",
+      "handle": "showcase",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/showcase"
+    },
+    {
+      "name": "Foundation",
+      "handle": "spark",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/spark"
+    },
+    {
+      "name": "Crave",
+      "handle": "crave",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/crave"
     }
   ],
-  "withStrapline": 1228,
-  "withThreeUsps": 1206,
-  "withLaunchDate": 1228,
+  "withStrapline": 1227,
+  "withThreeUsps": 1205,
+  "withLaunchDate": 1227,
   "historyFailureCount": 0
 }
