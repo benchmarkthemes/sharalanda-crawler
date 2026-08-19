@@ -1,12 +1,12 @@
 {
-  "crawledAt": "2026-08-18T04:13:50.021Z",
-  "themeCount": 1231,
-  "failureCount": 4,
+  "crawledAt": "2026-08-19T04:15:57.806Z",
+  "themeCount": 1232,
+  "failureCount": 8,
   "failures": [
     {
-      "name": "Lorenza",
-      "handle": "lorenza",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/lorenza"
+      "name": "Nest",
+      "handle": "mr-parker",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/mr-parker"
     },
     {
       "name": "Aria",
@@ -14,18 +14,38 @@
       "error": "HTTP 403 for https://themes.shopify.com/themes/showcase"
     },
     {
-      "name": "Foundation",
-      "handle": "spark",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/spark"
+      "name": "Cotton",
+      "handle": "atlantic",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
     },
     {
-      "name": "Crave",
-      "handle": "crave",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/crave"
+      "name": "Reveal",
+      "handle": "drop",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/drop"
+    },
+    {
+      "name": "Furry",
+      "handle": "minion",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/minion"
+    },
+    {
+      "name": "Inner",
+      "handle": "mojave",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/mojave"
+    },
+    {
+      "name": "Atna",
+      "handle": "mojave",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/mojave"
+    },
+    {
+      "name": "Haula",
+      "handle": "refine",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/refine"
     }
   ],
-  "withStrapline": 1227,
-  "withThreeUsps": 1205,
-  "withLaunchDate": 1227,
+  "withStrapline": 1224,
+  "withThreeUsps": 1202,
+  "withLaunchDate": 1224,
   "historyFailureCount": 0
 }
