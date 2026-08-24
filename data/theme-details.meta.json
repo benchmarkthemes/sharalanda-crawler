@@ -1,21 +1,21 @@
 {
-  "crawledAt": "2026-08-23T04:15:33.117Z",
+  "crawledAt": "2026-08-24T04:16:05.567Z",
   "themeCount": 1239,
   "failureCount": 2,
   "failures": [
     {
-      "name": "Calm",
-      "handle": "xtra",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/xtra"
+      "name": "Pharm",
+      "handle": "athens",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/athens"
     },
     {
-      "name": "Cedar",
-      "handle": "canopy",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/canopy"
+      "name": "Atrium",
+      "handle": "atlantic",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
     }
   ],
-  "withStrapline": 1237,
-  "withThreeUsps": 1215,
-  "withLaunchDate": 1237,
+  "withStrapline": 1223,
+  "withThreeUsps": 1201,
+  "withLaunchDate": 1223,
   "historyFailureCount": 0
 }
