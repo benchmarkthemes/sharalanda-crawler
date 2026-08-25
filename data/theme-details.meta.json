@@ -1,21 +1,16 @@
 {
-  "crawledAt": "2026-08-24T04:16:05.567Z",
-  "themeCount": 1239,
-  "failureCount": 2,
+  "crawledAt": "2026-08-25T04:14:50.687Z",
+  "themeCount": 1241,
+  "failureCount": 1,
   "failures": [
     {
-      "name": "Pharm",
-      "handle": "athens",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/athens"
-    },
-    {
-      "name": "Atrium",
-      "handle": "atlantic",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
+      "name": "Mojave",
+      "handle": "mojave",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/mojave"
     }
   ],
-  "withStrapline": 1223,
-  "withThreeUsps": 1201,
-  "withLaunchDate": 1223,
+  "withStrapline": 1240,
+  "withThreeUsps": 1218,
+  "withLaunchDate": 1240,
   "historyFailureCount": 0
 }
