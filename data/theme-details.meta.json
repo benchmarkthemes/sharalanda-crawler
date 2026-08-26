@@ -1,16 +1,10 @@
 {
-  "crawledAt": "2026-08-25T04:14:50.687Z",
-  "themeCount": 1241,
-  "failureCount": 1,
-  "failures": [
-    {
-      "name": "Mojave",
-      "handle": "mojave",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/mojave"
-    }
-  ],
-  "withStrapline": 1240,
-  "withThreeUsps": 1218,
-  "withLaunchDate": 1240,
+  "crawledAt": "2026-08-26T04:11:01.671Z",
+  "themeCount": 1243,
+  "failureCount": 0,
+  "failures": [],
+  "withStrapline": 1225,
+  "withThreeUsps": 1203,
+  "withLaunchDate": 1225,
   "historyFailureCount": 0
 }
