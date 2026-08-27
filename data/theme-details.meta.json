@@ -1,10 +1,16 @@
 {
-  "crawledAt": "2026-08-26T04:11:01.671Z",
+  "crawledAt": "2026-08-27T05:46:50.952Z",
   "themeCount": 1243,
-  "failureCount": 0,
-  "failures": [],
-  "withStrapline": 1225,
-  "withThreeUsps": 1203,
-  "withLaunchDate": 1225,
+  "failureCount": 1,
+  "failures": [
+    {
+      "name": "Split",
+      "handle": "split",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/split"
+    }
+  ],
+  "withStrapline": 1231,
+  "withThreeUsps": 1209,
+  "withLaunchDate": 1231,
   "historyFailureCount": 0
 }
