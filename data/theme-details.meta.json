@@ -1,12 +1,67 @@
 {
-  "crawledAt": "2026-08-27T05:46:50.952Z",
+  "crawledAt": "2026-08-28T06:36:45.331Z",
   "themeCount": 1243,
-  "failureCount": 1,
+  "failureCount": 12,
   "failures": [
     {
-      "name": "Split",
-      "handle": "split",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/split"
+      "name": "Pharm",
+      "handle": "athens",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/athens"
+    },
+    {
+      "name": "Seed",
+      "handle": "xtra",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/xtra"
+    },
+    {
+      "name": "Cotton",
+      "handle": "atlantic",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
+    },
+    {
+      "name": "Spa",
+      "handle": "mr-parker",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/mr-parker"
+    },
+    {
+      "name": "Atrium",
+      "handle": "atlantic",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
+    },
+    {
+      "name": "Parfum",
+      "handle": "atlantic",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
+    },
+    {
+      "name": "Cedar",
+      "handle": "canopy",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/canopy"
+    },
+    {
+      "name": "Willow",
+      "handle": "canopy",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/canopy"
+    },
+    {
+      "name": "Mila",
+      "handle": "showcase",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/showcase"
+    },
+    {
+      "name": "Nitro",
+      "handle": "victory",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/victory"
+    },
+    {
+      "name": "Flash",
+      "handle": "drop",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/drop"
+    },
+    {
+      "name": "Crave",
+      "handle": "crave",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/crave"
     }
   ],
   "withStrapline": 1231,
