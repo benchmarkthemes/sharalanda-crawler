@@ -1,71 +1,10 @@
 {
-  "crawledAt": "2026-08-28T06:36:45.331Z",
+  "crawledAt": "2026-08-29T04:00:25.998Z",
   "themeCount": 1243,
-  "failureCount": 12,
-  "failures": [
-    {
-      "name": "Pharm",
-      "handle": "athens",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/athens"
-    },
-    {
-      "name": "Seed",
-      "handle": "xtra",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/xtra"
-    },
-    {
-      "name": "Cotton",
-      "handle": "atlantic",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
-    },
-    {
-      "name": "Spa",
-      "handle": "mr-parker",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/mr-parker"
-    },
-    {
-      "name": "Atrium",
-      "handle": "atlantic",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
-    },
-    {
-      "name": "Parfum",
-      "handle": "atlantic",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
-    },
-    {
-      "name": "Cedar",
-      "handle": "canopy",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/canopy"
-    },
-    {
-      "name": "Willow",
-      "handle": "canopy",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/canopy"
-    },
-    {
-      "name": "Mila",
-      "handle": "showcase",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/showcase"
-    },
-    {
-      "name": "Nitro",
-      "handle": "victory",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/victory"
-    },
-    {
-      "name": "Flash",
-      "handle": "drop",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/drop"
-    },
-    {
-      "name": "Crave",
-      "handle": "crave",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/crave"
-    }
-  ],
-  "withStrapline": 1231,
-  "withThreeUsps": 1209,
-  "withLaunchDate": 1231,
+  "failureCount": 0,
+  "failures": [],
+  "withStrapline": 1243,
+  "withThreeUsps": 1221,
+  "withLaunchDate": 1243,
   "historyFailureCount": 0
 }
