@@ -1,10 +1,21 @@
 {
-  "crawledAt": "2026-09-06T08:31:05.725Z",
+  "crawledAt": "2026-09-07T08:58:42.114Z",
   "themeCount": 1257,
-  "failureCount": 0,
-  "failures": [],
-  "withStrapline": 1257,
-  "withThreeUsps": 1235,
-  "withLaunchDate": 1257,
+  "failureCount": 2,
+  "failures": [
+    {
+      "name": "Vault",
+      "handle": "xtra",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/xtra"
+    },
+    {
+      "name": "Plush",
+      "handle": "atlantic",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/atlantic"
+    }
+  ],
+  "withStrapline": 1255,
+  "withThreeUsps": 1233,
+  "withLaunchDate": 1255,
   "historyFailureCount": 0
 }
