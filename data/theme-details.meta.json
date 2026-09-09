@@ -1,16 +1,10 @@
 {
-  "crawledAt": "2026-09-08T08:41:24.505Z",
+  "crawledAt": "2026-09-09T04:03:03.214Z",
   "themeCount": 1262,
-  "failureCount": 1,
-  "failures": [
-    {
-      "name": "Prism",
-      "handle": "athens",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/athens"
-    }
-  ],
-  "withStrapline": 1261,
-  "withThreeUsps": 1239,
-  "withLaunchDate": 1261,
+  "failureCount": 0,
+  "failures": [],
+  "withStrapline": 1262,
+  "withThreeUsps": 1240,
+  "withLaunchDate": 1262,
   "historyFailureCount": 0
 }
