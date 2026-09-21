@@ -1,10 +1,16 @@
 {
-  "crawledAt": "2026-09-20T04:03:40.488Z",
+  "crawledAt": "2026-09-21T04:11:53.231Z",
   "themeCount": 1274,
-  "failureCount": 0,
-  "failures": [],
-  "withStrapline": 1274,
-  "withThreeUsps": 1252,
-  "withLaunchDate": 1274,
+  "failureCount": 1,
+  "failures": [
+    {
+      "name": "Devices",
+      "handle": "minion",
+      "error": "HTTP 403 for https://themes.shopify.com/themes/minion"
+    }
+  ],
+  "withStrapline": 1267,
+  "withThreeUsps": 1245,
+  "withLaunchDate": 1267,
   "historyFailureCount": 0
 }
