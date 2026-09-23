@@ -1,31 +1,10 @@
 {
-  "crawledAt": "2026-09-22T04:08:32.660Z",
-  "themeCount": 1274,
-  "failureCount": 4,
-  "failures": [
-    {
-      "name": "Drop",
-      "handle": "drop",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/drop"
-    },
-    {
-      "name": "Cafe",
-      "handle": "emerge",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/emerge"
-    },
-    {
-      "name": "Drake",
-      "handle": "showcase",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/showcase"
-    },
-    {
-      "name": "Tincture",
-      "handle": "lorenza",
-      "error": "HTTP 403 for https://themes.shopify.com/themes/lorenza"
-    }
-  ],
-  "withStrapline": 1270,
-  "withThreeUsps": 1248,
-  "withLaunchDate": 1270,
+  "crawledAt": "2026-09-23T04:08:08.729Z",
+  "themeCount": 1278,
+  "failureCount": 0,
+  "failures": [],
+  "withStrapline": 1278,
+  "withThreeUsps": 1256,
+  "withLaunchDate": 1278,
   "historyFailureCount": 0
 }
