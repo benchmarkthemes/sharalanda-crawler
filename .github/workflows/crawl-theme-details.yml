@@ -39,15 +39,35 @@ jobs:
       - name: Crawl theme detail pages
         run: node scripts/crawl-theme-details.mjs
 
-      - name: Commit details
+      - name: Commit Shopify theme details
         run: |
+          set -uo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase --autostash
-          git add data/theme-details.json data/theme-details.meta.json data/themeradars.json
-          if git diff --staged --quiet; then
-            echo "No detail changes."
-          else
-            git commit -m "chore: update Shopify theme details"
-            git push
-          fi
+
+          for attempt in 1 2 3; do
+            git fetch origin main || exit 1
+            # Never merge generated data. Point the index at the remote tip and
+            # stage only our freshly written files, leaving the working tree
+            # alone: the commit becomes "remote state + our regenerated files".
+            # A merge or rebase here can leave conflict markers *and* exit 0,
+            # which is how markers once got committed.
+            git reset --mixed origin/main || exit 1
+            for f in data/theme-details.json data/theme-details.meta.json data/themeradars.json; do
+              [ -f "$f" ] && { git add -- "$f" || exit 1; }
+            done
+
+            if git diff --staged --quiet; then
+              echo "No changes to commit."
+              exit 0
+            fi
+
+            git commit -m "chore: update Shopify theme details" || exit 1
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push rejected (remote moved during the run); retrying."
+          done
+
+          echo "Could not push after 3 attempts." >&2
+          exit 1

@@ -100,12 +100,17 @@ export function parseListingCards(html) {
     const href = block.match(/href="([^"]*)"/)?.[1] ?? '';
     const path = decodeEntities(href).split('?')[0];
     const handle = path.match(/\/themes\/([^/]+)/)?.[1] ?? null;
+    // Most cards are presets, not themes: the href is
+    // /themes/<theme>/presets/<preset>. Keeping only the theme handle would
+    // make every card resolve to its theme's default preset page.
+    const presetHandle = path.match(/\/presets\/([^/]+)/)?.[1] ?? handle;
     const priceValue = block.match(/<data[^>]*value="([\d.]+)"/)?.[1];
 
     cards.push({
       name: decodeEntities(rawName).trim(),
       handle,
-      url: handle ? `${ORIGIN}/themes/${handle}` : null,
+      presetHandle,
+      url: handle ? `${ORIGIN}${path}` : null,
       price: priceValue === undefined ? null : Number(priceValue),
       isFree: priceValue === undefined ? null : Number(priceValue) === 0,
       badge: text(block.match(/role="status"[^>]*>([\s\S]*?)<\/span>/)?.[1]),
