@@ -25,6 +25,9 @@ jobs:
       - name: Crawl theme store
         run: node scripts/crawl-theme-store.mjs
 
+      - name: Validate generated data
+        run: node scripts/validate-data.mjs data/theme-rankings.json:1000 data/theme-rankings.meta.json
+
       - name: Commit Shopify theme store rankings
         run: |
           set -uo pipefail

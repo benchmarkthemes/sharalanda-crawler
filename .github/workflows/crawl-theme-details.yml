@@ -39,6 +39,9 @@ jobs:
       - name: Crawl theme detail pages
         run: node scripts/crawl-theme-details.mjs
 
+      - name: Validate generated data
+        run: node scripts/validate-data.mjs data/theme-details.json:1000 data/theme-details.meta.json
+
       - name: Commit Shopify theme details
         run: |
           set -uo pipefail
