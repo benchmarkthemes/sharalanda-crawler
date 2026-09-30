@@ -16,12 +16,25 @@ jobs:
   crawl:
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    # Job-level so the step's `if` can see it; a step-level env is not visible
+    # to its own condition.
+    env:
+      THEMERADARS_API_KEY: ${{ secrets.THEMERADARS_API_KEY }}
     steps:
       - uses: actions/checkout@v5
 
       - uses: actions/setup-node@v5
         with:
           node-version: '22'
+
+      # Free tier is 100 requests/day. The list endpoint costs 4; the rest goes
+      # on backfilling presets we have never seen. Skipped if no key is set, so
+      # the crawl below still runs.
+      - name: Sync ThemeRadars cache
+        if: ${{ env.THEMERADARS_API_KEY != '' }}
+        env:
+          THEMERADARS_BUDGET: '90'
+        run: node scripts/sync-themeradars.mjs
 
       - name: Crawl theme detail pages
         run: node scripts/crawl-theme-details.mjs
@@ -31,7 +44,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git pull --rebase --autostash
-          git add data/theme-details.json data/theme-details.meta.json
+          git add data/theme-details.json data/theme-details.meta.json data/themeradars.json
           if git diff --staged --quiet; then
             echo "No detail changes."
           else
