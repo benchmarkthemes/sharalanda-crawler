@@ -1,19 +1,19 @@
 {
-  "crawledAt": "2026-10-03T09:47:10.968Z",
+  "crawledAt": "2026-10-04T10:27:27.368Z",
   "themeCount": 1299,
   "failureCount": 0,
   "failures": [],
   "withStrapline": 1299,
   "withThreeUsps": 1272,
   "withThemeLaunchDate": 1299,
-  "withPresetLaunchDate": 564,
+  "withPresetLaunchDate": 565,
   "presetLaunchDateBySource": {
     "default-preset": 341,
-    "unknown": 735,
+    "unknown": 734,
     "release-note": 215,
-    "themeradars-first-seen": 8
+    "themeradars-first-seen": 9
   },
-  "withThemeRadars": 649,
+  "withThemeRadars": 735,
   "distinctThemes": 342,
   "historyRequests": 342,
   "historyFailureCount": 0
