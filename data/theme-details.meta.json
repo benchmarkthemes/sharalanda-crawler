@@ -1,5 +1,5 @@
 {
-  "crawledAt": "2026-10-04T10:27:27.368Z",
+  "crawledAt": "2026-10-05T11:10:43.706Z",
   "themeCount": 1299,
   "failureCount": 0,
   "failures": [],
@@ -13,7 +13,7 @@
     "release-note": 215,
     "themeradars-first-seen": 9
   },
-  "withThemeRadars": 735,
+  "withThemeRadars": 820,
   "distinctThemes": 342,
   "historyRequests": 342,
   "historyFailureCount": 0
