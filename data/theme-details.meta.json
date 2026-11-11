@@ -1,20 +1,20 @@
 {
-  "crawledAt": "2026-11-10T03:59:18.240Z",
-  "themeCount": 1369,
+  "crawledAt": "2026-11-11T03:59:38.660Z",
+  "themeCount": 1374,
   "failureCount": 0,
   "failures": [],
-  "withStrapline": 1369,
-  "withThreeUsps": 1342,
-  "withThemeLaunchDate": 1369,
-  "withPresetLaunchDate": 905,
+  "withStrapline": 1374,
+  "withThreeUsps": 1347,
+  "withThemeLaunchDate": 1374,
+  "withPresetLaunchDate": 910,
   "presetLaunchDateBySource": {
-    "default-preset": 353,
+    "default-preset": 354,
     "unknown": 464,
-    "themeradars-first-seen": 306,
+    "themeradars-first-seen": 310,
     "release-note": 246
   },
-  "withThemeRadars": 1344,
-  "distinctThemes": 354,
-  "historyRequests": 354,
+  "withThemeRadars": 1349,
+  "distinctThemes": 355,
+  "historyRequests": 355,
   "historyFailureCount": 0
 }
