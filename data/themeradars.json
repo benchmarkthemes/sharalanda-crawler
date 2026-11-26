@@ -1,10 +1,10 @@
 {
-  "syncedAt": "2026-11-25T03:34:30.276Z",
+  "syncedAt": "2026-11-26T03:32:45.102Z",
   "floorDate": "2025-07-18",
   "floorNote": "ThemeRadars createdAt is when they first saw a preset, not when it launched. Entries dated floorDate existed before tracking began, so their date is a lower bound only.",
   "presetCount": 1410,
   "withUsableCreatedAt": 606,
-  "requestsUsed": 13,
+  "requestsUsed": 4,
   "quotaExhausted": false,
   "entries": {
     "miro-miro": {
@@ -20,15 +20,15 @@
         "jewelry-and-accessories"
       ],
       "rating": null,
-      "currentRank": 790,
+      "currentRank": 787,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-09-30T00:47:23.507Z",
-      "updatedAt": "2026-11-25T02:30:28.255Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:56.914Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "tide-tide": {
       "id": "tide-tide",
@@ -43,15 +43,15 @@
         "sports"
       ],
       "rating": null,
-      "currentRank": 812,
+      "currentRank": 804,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-09-30T00:47:21.687Z",
-      "updatedAt": "2026-11-25T02:45:05.865Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:01:06.062Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "fuse-fuse": {
       "id": "fuse-fuse",
@@ -66,15 +66,15 @@
         "clothing"
       ],
       "rating": null,
-      "currentRank": 804,
+      "currentRank": 833,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-09-29T00:46:07.414Z",
-      "updatedAt": "2026-11-25T02:00:01.184Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:41.125Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "sky-sky": {
       "id": "sky-sky",
@@ -89,15 +89,15 @@
         "clothing"
       ],
       "rating": "0%",
-      "currentRank": 765,
+      "currentRank": 762,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2026-09-26T00:46:34.357Z",
-      "updatedAt": "2026-11-25T01:59:59.413Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:37.916Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "radian-radian": {
       "id": "radian-radian",
@@ -112,15 +112,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 301,
+      "currentRank": 291,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 5,
       "previousReviews": 5,
       "reviewsChange": 0,
       "createdAt": "2026-09-17T00:45:34.024Z",
-      "updatedAt": "2026-11-25T01:59:47.253Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:25.105Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "stylist-stylist": {
       "id": "stylist-stylist",
@@ -135,15 +135,15 @@
         "services"
       ],
       "rating": null,
-      "currentRank": 774,
+      "currentRank": 776,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-09-15T00:45:13.035Z",
-      "updatedAt": "2026-11-25T02:38:11.103Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:53:39.307Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "arctos-arctos": {
       "id": "arctos-arctos",
@@ -157,16 +157,16 @@
       "categories": [
         "clothing"
       ],
-      "rating": "83%",
-      "currentRank": 418,
+      "rating": "86%",
+      "currentRank": 380,
       "previousRank": null,
       "rankChange": null,
-      "currentReviews": 6,
+      "currentReviews": 7,
       "previousReviews": 6,
-      "reviewsChange": 0,
+      "reviewsChange": 1,
       "createdAt": "2026-09-12T00:45:11.172Z",
-      "updatedAt": "2026-11-25T01:59:50.390Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:28.286Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "egoiste-egoiste": {
       "id": "egoiste-egoiste",
@@ -181,15 +181,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 777,
+      "currentRank": 775,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2026-09-08T00:45:53.070Z",
-      "updatedAt": "2026-11-25T02:00:00.085Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:38.782Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "majestic-majestic": {
       "id": "majestic-majestic",
@@ -204,15 +204,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 316,
+      "currentRank": 307,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 5,
       "previousReviews": 5,
       "reviewsChange": 0,
       "createdAt": "2026-09-05T00:43:32.628Z",
-      "updatedAt": "2026-11-25T02:22:48.990Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:22.460Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "helix-helix": {
       "id": "helix-helix",
@@ -227,15 +227,15 @@
         "shoes"
       ],
       "rating": "100%",
-      "currentRank": 758,
+      "currentRank": 756,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2026-09-03T00:44:00.678Z",
-      "updatedAt": "2026-11-25T02:40:33.941Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:56:13.125Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "ormonte-ormonte": {
       "id": "ormonte-ormonte",
@@ -250,15 +250,15 @@
         "food-and-drink"
       ],
       "rating": null,
-      "currentRank": 782,
+      "currentRank": 774,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-09-02T00:41:07.694Z",
-      "updatedAt": "2026-11-25T02:12:58.770Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:48.229Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "analog-analog": {
       "id": "analog-analog",
@@ -273,15 +273,15 @@
         "clothing"
       ],
       "rating": null,
-      "currentRank": 813,
+      "currentRank": 802,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-09-01T00:45:07.960Z",
-      "updatedAt": "2026-11-25T02:00:01.733Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:40.096Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "soft-soft": {
       "id": "soft-soft",
@@ -296,15 +296,15 @@
         "toys"
       ],
       "rating": "100%",
-      "currentRank": 835,
+      "currentRank": 831,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-08-19T00:43:45.889Z",
-      "updatedAt": "2026-11-25T02:47:02.758Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:03:15.585Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "awaken-awaken": {
       "id": "awaken-awaken",
@@ -319,15 +319,15 @@
         "beauty"
       ],
       "rating": "80%",
-      "currentRank": 428,
+      "currentRank": 418,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 5,
       "previousReviews": 5,
       "reviewsChange": 0,
       "createdAt": "2026-08-18T00:40:08.153Z",
-      "updatedAt": "2026-11-25T01:44:27.365Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:55:00.561Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "bricks-bricks": {
       "id": "bricks-bricks",
@@ -342,15 +342,15 @@
         "clothing"
       ],
       "rating": null,
-      "currentRank": 764,
+      "currentRank": 761,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-08-12T00:44:00.385Z",
-      "updatedAt": "2026-11-25T01:59:59.277Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:37.772Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "triumph-triumph": {
       "id": "triumph-triumph",
@@ -365,15 +365,15 @@
         "sports"
       ],
       "rating": "100%",
-      "currentRank": 420,
+      "currentRank": 413,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-07-31T00:42:27.121Z",
-      "updatedAt": "2026-11-25T02:45:01.496Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:01:01.825Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "purevea-purevea": {
       "id": "purevea-purevea",
@@ -388,15 +388,15 @@
         "beauty"
       ],
       "rating": "100%",
-      "currentRank": 304,
+      "currentRank": 293,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 5,
       "previousReviews": 5,
       "reviewsChange": 0,
       "createdAt": "2026-07-30T00:41:58.370Z",
-      "updatedAt": "2026-11-25T01:44:25.874Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:58.409Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "stack-stack": {
       "id": "stack-stack",
@@ -411,15 +411,15 @@
         "sports"
       ],
       "rating": null,
-      "currentRank": 775,
+      "currentRank": 773,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-07-22T00:41:10.781Z",
-      "updatedAt": "2026-11-25T02:45:04.788Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:01:05.615Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "fit-check-fit-check": {
       "id": "fit-check-fit-check",
@@ -434,15 +434,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 783,
+      "currentRank": 772,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2026-07-15T00:39:28.728Z",
-      "updatedAt": "2026-11-25T02:00:00.499Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:38.634Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "kinderly-kinderly": {
       "id": "kinderly-kinderly",
@@ -457,15 +457,15 @@
         "kids"
       ],
       "rating": "100%",
-      "currentRank": 1168,
+      "currentRank": 1124,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2026-07-14T00:41:44.891Z",
-      "updatedAt": "2026-11-25T02:33:06.229Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:48:02.798Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "snazzy-snazzy": {
       "id": "snazzy-snazzy",
@@ -487,8 +487,8 @@
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-07-08T00:42:50.364Z",
-      "updatedAt": "2026-11-25T02:00:00.223Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:38.927Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "strada-strada": {
       "id": "strada-strada",
@@ -510,8 +510,8 @@
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-06-30T00:40:22.379Z",
-      "updatedAt": "2026-11-25T02:00:02.559Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:41.268Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "impression-impression": {
       "id": "impression-impression",
@@ -526,15 +526,15 @@
         "art"
       ],
       "rating": "100%",
-      "currentRank": 320,
+      "currentRank": 304,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2026-06-17T00:38:36.854Z",
-      "updatedAt": "2026-11-25T01:31:18.696Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:40:54.903Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "vows-vows": {
       "id": "vows-vows",
@@ -549,15 +549,15 @@
         "services"
       ],
       "rating": null,
-      "currentRank": 842,
+      "currentRank": 845,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-06-17T00:38:36.833Z",
-      "updatedAt": "2026-11-25T02:38:11.240Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:53:39.473Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "epitome-epitome": {
       "id": "epitome-epitome",
@@ -572,15 +572,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 786,
+      "currentRank": 780,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2026-06-16T00:39:15.558Z",
-      "updatedAt": "2026-11-25T02:00:00.636Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:39.071Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "nexus-nexus": {
       "id": "nexus-nexus",
@@ -595,15 +595,15 @@
         "beauty"
       ],
       "rating": "100%",
-      "currentRank": 799,
+      "currentRank": 790,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2026-06-13T00:38:33.564Z",
-      "updatedAt": "2026-11-25T01:44:32.273Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:55:06.147Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "wave-wave": {
       "id": "wave-wave",
@@ -618,15 +618,15 @@
         "sports"
       ],
       "rating": "100%",
-      "currentRank": 788,
+      "currentRank": 789,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-06-05T00:40:37.821Z",
-      "updatedAt": "2026-11-25T02:45:04.927Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:01:05.757Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "gravity-gravity": {
       "id": "gravity-gravity",
@@ -641,15 +641,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 779,
+      "currentRank": 784,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-06-05T00:40:37.786Z",
-      "updatedAt": "2026-11-25T02:00:00.362Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:39.370Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "noble-noble": {
       "id": "noble-noble",
@@ -671,8 +671,8 @@
       "previousReviews": 4,
       "reviewsChange": 0,
       "createdAt": "2026-05-22T00:31:30.210Z",
-      "updatedAt": "2026-11-25T01:44:32.546Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:55:06.737Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "highstreet-highstreet": {
       "id": "highstreet-highstreet",
@@ -686,16 +686,16 @@
       "categories": [
         "clothing"
       ],
-      "rating": null,
-      "currentRank": 771,
+      "rating": "100%",
+      "currentRank": 764,
       "previousRank": null,
       "rankChange": null,
-      "currentReviews": 0,
+      "currentReviews": 2,
       "previousReviews": 0,
-      "reviewsChange": 0,
+      "reviewsChange": 2,
       "createdAt": "2026-05-15T00:30:54.288Z",
-      "updatedAt": "2026-11-25T01:59:59.950Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:38.057Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "discovery-discovery": {
       "id": "discovery-discovery",
@@ -710,15 +710,15 @@
         "clothing"
       ],
       "rating": "0%",
-      "currentRank": 761,
+      "currentRank": 758,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2026-05-14T00:30:32.756Z",
-      "updatedAt": "2026-11-25T01:59:59.142Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:37.628Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "renovate-renovate": {
       "id": "renovate-renovate",
@@ -733,15 +733,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 792,
+      "currentRank": 786,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2026-05-14T00:30:32.730Z",
-      "updatedAt": "2026-11-25T02:22:55.389Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:30.289Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "agnes-agnes": {
       "id": "agnes-agnes",
@@ -756,15 +756,15 @@
         "kids"
       ],
       "rating": "100%",
-      "currentRank": 843,
+      "currentRank": 840,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2026-05-12T00:30:48.082Z",
-      "updatedAt": "2026-11-25T02:33:05.129Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:47:59.919Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "granivio-granivio": {
       "id": "granivio-granivio",
@@ -779,15 +779,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 1301,
+      "currentRank": 1208,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2026-05-06T00:30:21.277Z",
-      "updatedAt": "2026-11-25T02:23:00.860Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:36.174Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "venice-venice": {
       "id": "venice-venice",
@@ -802,15 +802,15 @@
         "beauty"
       ],
       "rating": "50%",
-      "currentRank": 787,
+      "currentRank": 785,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 6,
       "previousReviews": 6,
       "reviewsChange": 0,
       "createdAt": "2026-05-05T00:30:08.298Z",
-      "updatedAt": "2026-11-25T01:44:32.137Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:55:06.003Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "mivo-mivo": {
       "id": "mivo-mivo",
@@ -825,15 +825,15 @@
         "pets"
       ],
       "rating": "100%",
-      "currentRank": 780,
+      "currentRank": 779,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-05-01T00:30:31.382Z",
-      "updatedAt": "2026-11-25T02:37:09.236Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:52:29.129Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "runase-runase": {
       "id": "runase-runase",
@@ -848,15 +848,15 @@
         "clothing"
       ],
       "rating": null,
-      "currentRank": 1073,
+      "currentRank": 1074,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-04-30T00:30:35.463Z",
-      "updatedAt": "2026-11-25T02:00:06.657Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:46.124Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "styra-styra": {
       "id": "styra-styra",
@@ -871,15 +871,15 @@
         "shoes"
       ],
       "rating": null,
-      "currentRank": 785,
+      "currentRank": 777,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-04-22T00:30:18.220Z",
-      "updatedAt": "2026-11-25T02:40:34.077Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:56:13.286Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "july-july": {
       "id": "july-july",
@@ -894,15 +894,15 @@
         "beauty"
       ],
       "rating": "90%",
-      "currentRank": 426,
+      "currentRank": 416,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 10,
       "previousReviews": 10,
       "reviewsChange": 0,
       "createdAt": "2026-04-16T00:29:25.200Z",
-      "updatedAt": "2026-11-25T01:44:27.229Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:55:00.179Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "milano-milano": {
       "id": "milano-milano",
@@ -917,15 +917,15 @@
         "clothing"
       ],
       "rating": "75%",
-      "currentRank": 805,
+      "currentRank": 797,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 4,
       "previousReviews": 4,
       "reviewsChange": 0,
       "createdAt": "2026-04-14T00:29:53.686Z",
-      "updatedAt": "2026-11-25T02:00:01.320Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:39.660Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "athora-athora": {
       "id": "athora-athora",
@@ -940,15 +940,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 70,
+      "currentRank": 71,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 28,
       "previousReviews": 28,
       "reviewsChange": 0,
       "createdAt": "2026-04-11T00:28:55.233Z",
-      "updatedAt": "2026-11-25T01:59:38.924Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:12.354Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "poetic-poetic": {
       "id": "poetic-poetic",
@@ -963,15 +963,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "100%",
-      "currentRank": 776,
+      "currentRank": 770,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2026-04-08T00:29:05.343Z",
-      "updatedAt": "2026-11-25T02:30:28.118Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:56.577Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "shift-shift": {
       "id": "shift-shift",
@@ -986,15 +986,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 839,
+      "currentRank": 837,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-04-08T00:29:05.337Z",
-      "updatedAt": "2026-11-25T02:22:56.071Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:31.125Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "elegance-elegance": {
       "id": "elegance-elegance",
@@ -1009,15 +1009,15 @@
         "art"
       ],
       "rating": "100%",
-      "currentRank": 760,
+      "currentRank": 419,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-04-07T00:29:20.283Z",
-      "updatedAt": "2026-11-25T01:31:22.427Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:40:55.184Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "atlas-atlas": {
       "id": "atlas-atlas",
@@ -1032,15 +1032,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 311,
+      "currentRank": 299,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 5,
       "previousReviews": 5,
       "reviewsChange": 0,
       "createdAt": "2026-03-25T00:28:37.852Z",
-      "updatedAt": "2026-11-25T02:05:07.772Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:18.088Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "zap-zap": {
       "id": "zap-zap",
@@ -1055,15 +1055,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 834,
+      "currentRank": 788,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 4,
       "previousReviews": 4,
       "reviewsChange": 0,
       "createdAt": "2026-03-24T00:28:33.579Z",
-      "updatedAt": "2026-11-25T02:12:59.453Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:48.375Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "dynamic-dynamic": {
       "id": "dynamic-dynamic",
@@ -1078,15 +1078,15 @@
         "beauty"
       ],
       "rating": "100%",
-      "currentRank": 784,
+      "currentRank": 781,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 4,
       "previousReviews": 4,
       "reviewsChange": 0,
       "createdAt": "2026-03-11T00:28:18.575Z",
-      "updatedAt": "2026-11-25T01:44:32.000Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:55:05.841Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "prompt-prompt": {
       "id": "prompt-prompt",
@@ -1101,15 +1101,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 801,
+      "currentRank": 796,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 4,
       "previousReviews": 4,
       "reviewsChange": 0,
       "createdAt": "2026-03-03T00:28:06.180Z",
-      "updatedAt": "2026-11-25T02:05:10.093Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:20.708Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "pebble-pebble": {
       "id": "pebble-pebble",
@@ -1131,8 +1131,8 @@
       "previousReviews": 75,
       "reviewsChange": 0,
       "createdAt": "2026-02-25T00:27:51.516Z",
-      "updatedAt": "2026-11-25T02:33:02.366Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:47:53.073Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "gentech-gentech": {
       "id": "gentech-gentech",
@@ -1147,15 +1147,15 @@
         "office"
       ],
       "rating": "100%",
-      "currentRank": 370,
+      "currentRank": 360,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 5,
       "previousReviews": 5,
       "reviewsChange": 0,
       "createdAt": "2026-02-11T00:27:11.298Z",
-      "updatedAt": "2026-11-25T02:34:22.758Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:49:32.963Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "seventh-seventh": {
       "id": "seventh-seventh",
@@ -1170,15 +1170,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 302,
+      "currentRank": 288,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2026-02-10T00:27:16.318Z",
-      "updatedAt": "2026-11-25T01:59:47.390Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:24.809Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "zeal-zeal": {
       "id": "zeal-zeal",
@@ -1193,15 +1193,15 @@
         "wellness"
       ],
       "rating": "100%",
-      "currentRank": 334,
+      "currentRank": 308,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 13,
       "previousReviews": 13,
       "reviewsChange": 0,
       "createdAt": "2026-01-30T00:28:22.485Z",
-      "updatedAt": "2026-11-25T02:50:03.266Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:06:36.150Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "force-force": {
       "id": "force-force",
@@ -1216,15 +1216,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 325,
+      "currentRank": 315,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 6,
       "previousReviews": 6,
       "reviewsChange": 0,
       "createdAt": "2026-01-27T00:27:16.758Z",
-      "updatedAt": "2026-11-25T02:05:08.046Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:18.378Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "poco-poco": {
       "id": "poco-poco",
@@ -1239,15 +1239,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 328,
+      "currentRank": 320,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 15,
       "previousReviews": 15,
       "reviewsChange": 0,
       "createdAt": "2026-01-13T00:26:43.583Z",
-      "updatedAt": "2026-11-25T02:12:55.225Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:44.314Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "zenith-zenith": {
       "id": "zenith-zenith",
@@ -1262,15 +1262,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 246,
+      "currentRank": 287,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 17,
       "previousReviews": 17,
       "reviewsChange": 0,
       "createdAt": "2026-01-13T00:26:43.572Z",
-      "updatedAt": "2026-11-25T01:59:46.160Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:24.659Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "filo-filo": {
       "id": "filo-filo",
@@ -1285,15 +1285,15 @@
         "clothing"
       ],
       "rating": null,
-      "currentRank": 795,
+      "currentRank": 783,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-01-13T00:26:43.561Z",
-      "updatedAt": "2026-11-25T02:00:01.048Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:39.225Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "unity-unity": {
       "id": "unity-unity",
@@ -1308,15 +1308,15 @@
         "wellness"
       ],
       "rating": "100%",
-      "currentRank": 335,
+      "currentRank": 322,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 7,
       "previousReviews": 7,
       "reviewsChange": 0,
       "createdAt": "2026-01-10T00:26:35.402Z",
-      "updatedAt": "2026-11-25T02:50:03.402Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:06:36.291Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "sweet-sweet": {
       "id": "sweet-sweet",
@@ -1331,15 +1331,15 @@
         "food-and-drink"
       ],
       "rating": null,
-      "currentRank": 1348,
+      "currentRank": 1362,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2025-12-25T00:26:09.021Z",
-      "updatedAt": "2026-11-25T02:13:06.813Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:57.305Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "metro-metro": {
       "id": "metro-metro",
@@ -1354,15 +1354,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 797,
+      "currentRank": 792,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-12-10T00:26:13.806Z",
-      "updatedAt": "2026-11-25T02:22:55.526Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:30.434Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "homage-homage": {
       "id": "homage-homage",
@@ -1377,15 +1377,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 808,
+      "currentRank": 801,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2025-12-10T00:26:13.799Z",
-      "updatedAt": "2026-11-25T02:00:01.596Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:39.950Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "victory-victory": {
       "id": "victory-victory",
@@ -1400,15 +1400,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 303,
+      "currentRank": 284,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 10,
       "previousReviews": 10,
       "reviewsChange": 0,
       "createdAt": "2025-12-03T00:26:06.451Z",
-      "updatedAt": "2026-11-25T02:12:55.086Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:44.171Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "vetro-vetro": {
       "id": "vetro-vetro",
@@ -1423,15 +1423,15 @@
         "beauty"
       ],
       "rating": "100%",
-      "currentRank": 174,
+      "currentRank": 169,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 35,
       "previousReviews": 35,
       "reviewsChange": 0,
       "createdAt": "2025-12-02T00:26:07.785Z",
-      "updatedAt": "2026-11-25T01:44:23.549Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:56.231Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "flaunt-flaunt": {
       "id": "flaunt-flaunt",
@@ -1446,15 +1446,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 353,
+      "currentRank": 340,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2025-11-26T00:25:50.035Z",
-      "updatedAt": "2026-11-25T01:59:49.300Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:27.259Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "mix-mix": {
       "id": "mix-mix",
@@ -1469,15 +1469,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 427,
+      "currentRank": 417,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2025-11-25T00:25:49.147Z",
-      "updatedAt": "2026-11-25T02:05:08.730Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:19.113Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "supreme-supreme": {
       "id": "supreme-supreme",
@@ -1492,15 +1492,15 @@
         "clothing"
       ],
       "rating": "88%",
-      "currentRank": 309,
+      "currentRank": 298,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 17,
       "previousReviews": 17,
       "reviewsChange": 0,
       "createdAt": "2025-11-18T00:25:51.187Z",
-      "updatedAt": "2026-11-25T01:59:47.526Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:25.254Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "fullframe-fullframe": {
       "id": "fullframe-fullframe",
@@ -1515,15 +1515,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 826,
+      "currentRank": 828,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2025-11-13T00:25:22.323Z",
-      "updatedAt": "2026-11-25T02:22:55.665Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:30.823Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "stockist-stockist": {
       "id": "stockist-stockist",
@@ -1538,15 +1538,15 @@
         "office"
       ],
       "rating": "100%",
-      "currentRank": 350,
+      "currentRank": 336,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2025-11-11T00:25:20.774Z",
-      "updatedAt": "2026-11-25T02:34:22.620Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:49:32.802Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "zyra-zyra": {
       "id": "zyra-zyra",
@@ -1561,15 +1561,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 769,
+      "currentRank": 768,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-11-04T00:32:10.603Z",
-      "updatedAt": "2026-11-25T01:59:59.683Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:38.350Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "maximize-maximize": {
       "id": "maximize-maximize",
@@ -1584,15 +1584,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 51,
+      "currentRank": 45,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 60,
-      "previousReviews": 59,
-      "reviewsChange": 1,
+      "previousReviews": 60,
+      "reviewsChange": 0,
       "createdAt": "2025-11-04T00:32:10.586Z",
-      "updatedAt": "2026-11-25T02:05:04.352Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:11.160Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "krank-krank": {
       "id": "krank-krank",
@@ -1607,15 +1607,15 @@
         "hardware"
       ],
       "rating": "96%",
-      "currentRank": 111,
+      "currentRank": 105,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 27,
       "previousReviews": 27,
       "reviewsChange": 0,
       "createdAt": "2025-10-22T00:30:52.202Z",
-      "updatedAt": "2026-11-25T02:15:52.050Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:28:53.631Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "flute-flute": {
       "id": "flute-flute",
@@ -1630,15 +1630,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 356,
+      "currentRank": 426,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 9,
       "previousReviews": 9,
       "reviewsChange": 0,
       "createdAt": "2025-10-21T00:29:13.692Z",
-      "updatedAt": "2026-11-25T01:59:49.572Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:29.433Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "line-line": {
       "id": "line-line",
@@ -1653,15 +1653,15 @@
         "beauty"
       ],
       "rating": "100%",
-      "currentRank": 810,
+      "currentRank": 805,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2025-10-21T00:29:13.686Z",
-      "updatedAt": "2026-11-25T01:44:32.412Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:55:06.295Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "purity-purity": {
       "id": "purity-purity",
@@ -1676,15 +1676,15 @@
         "beauty"
       ],
       "rating": "100%",
-      "currentRank": 79,
+      "currentRank": 75,
       "previousRank": null,
       "rankChange": null,
-      "currentReviews": 139,
+      "currentReviews": 140,
       "previousReviews": 139,
-      "reviewsChange": 0,
+      "reviewsChange": 1,
       "createdAt": "2025-09-30T00:31:06.524Z",
-      "updatedAt": "2026-11-25T01:44:22.353Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:55.055Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "beautify-beautify": {
       "id": "beautify-beautify",
@@ -1699,15 +1699,15 @@
         "beauty"
       ],
       "rating": "71%",
-      "currentRank": 773,
+      "currentRank": 771,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 7,
       "previousReviews": 7,
       "reviewsChange": 0,
       "createdAt": "2025-09-17T00:03:46.931Z",
-      "updatedAt": "2026-11-25T01:44:31.863Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:55:05.688Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "elemento-elemento": {
       "id": "elemento-elemento",
@@ -1722,15 +1722,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 1139,
+      "currentRank": 1220,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2025-09-03T00:02:10.459Z",
-      "updatedAt": "2026-11-25T02:00:08.150Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:48.568Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "lollipop-lollipop": {
       "id": "lollipop-lollipop",
@@ -1745,15 +1745,15 @@
         "beauty"
       ],
       "rating": "100%",
-      "currentRank": 300,
+      "currentRank": 290,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 7,
       "previousReviews": 7,
       "reviewsChange": 0,
       "createdAt": "2025-08-28T00:02:20.118Z",
-      "updatedAt": "2026-11-25T01:44:25.738Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:58.266Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "haven-haven": {
       "id": "haven-haven",
@@ -1768,15 +1768,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 339,
+      "currentRank": 326,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 9,
       "previousReviews": 9,
       "reviewsChange": 0,
       "createdAt": "2025-08-26T00:02:09.465Z",
-      "updatedAt": "2026-11-25T02:22:49.125Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:22.608Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "rad-rad": {
       "id": "rad-rad",
@@ -1791,15 +1791,15 @@
         "beauty"
       ],
       "rating": "100%",
-      "currentRank": 1101,
+      "currentRank": 809,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-08-20T00:02:09.482Z",
-      "updatedAt": "2026-11-25T01:44:37.044Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:55:06.440Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "edge-edge": {
       "id": "edge-edge",
@@ -1814,15 +1814,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "100%",
-      "currentRank": 77,
+      "currentRank": 78,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 21,
       "previousReviews": 21,
       "reviewsChange": 0,
       "createdAt": "2025-08-06T00:02:14.926Z",
-      "updatedAt": "2026-11-25T02:30:19.350Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:31.386Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "allure-allure": {
       "id": "allure-allure",
@@ -1837,15 +1837,15 @@
         "clothing"
       ],
       "rating": "91%",
-      "currentRank": 56,
+      "currentRank": 49,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 33,
       "previousReviews": 33,
       "reviewsChange": 0,
       "createdAt": "2025-07-30T00:02:11.934Z",
-      "updatedAt": "2026-11-25T01:59:36.547Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:09.716Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "grove-grove": {
       "id": "grove-grove",
@@ -1860,15 +1860,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "100%",
-      "currentRank": 846,
+      "currentRank": 844,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2025-07-29T00:02:11.980Z",
-      "updatedAt": "2026-11-25T02:30:29.077Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:58.954Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "adorn-adorn": {
       "id": "adorn-adorn",
@@ -1883,15 +1883,15 @@
         "beauty"
       ],
       "rating": "97%",
-      "currentRank": 254,
+      "currentRank": 257,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 30,
       "previousReviews": 30,
       "reviewsChange": 0,
       "createdAt": "2025-07-25T00:02:08.750Z",
-      "updatedAt": "2026-11-25T01:44:24.920Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:57.837Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "lyra-lyra": {
       "id": "lyra-lyra",
@@ -1906,15 +1906,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "100%",
-      "currentRank": 338,
+      "currentRank": 334,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 14,
-      "previousReviews": 13,
-      "reviewsChange": 1,
+      "previousReviews": 14,
+      "reviewsChange": 0,
       "createdAt": "2025-07-24T09:12:07.645Z",
-      "updatedAt": "2026-11-25T02:30:22.226Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:36.667Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "andaman-andaman": {
       "id": "andaman-andaman",
@@ -1929,15 +1929,15 @@
         "clothing"
       ],
       "rating": "93%",
-      "currentRank": 366,
+      "currentRank": 364,
       "previousRank": 4,
       "rankChange": -235,
       "currentReviews": 15,
       "previousReviews": 15,
       "reviewsChange": 0,
       "createdAt": "2025-07-19T00:02:07.587Z",
-      "updatedAt": "2026-11-25T01:59:49.711Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:27.850Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "swipe-swipe": {
       "id": "swipe-swipe",
@@ -1952,15 +1952,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 341,
+      "currentRank": 328,
       "previousRank": 236,
       "rankChange": -614,
       "currentReviews": 7,
       "previousReviews": 7,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.769Z",
-      "updatedAt": "2026-11-25T01:59:49.028Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:26.953Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "fame-fame": {
       "id": "fame-fame",
@@ -1975,15 +1975,15 @@
         "clothing"
       ],
       "rating": "86%",
-      "currentRank": 432,
+      "currentRank": 423,
       "previousRank": 789,
       "rankChange": 146,
       "currentReviews": 14,
       "previousReviews": 14,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.740Z",
-      "updatedAt": "2026-11-25T01:59:51.089Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:29.148Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "north-north": {
       "id": "north-north",
@@ -1998,15 +1998,15 @@
         "clothing"
       ],
       "rating": "87%",
-      "currentRank": 430,
+      "currentRank": 341,
       "previousRank": 837,
       "rankChange": -1,
       "currentReviews": 30,
       "previousReviews": 30,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.687Z",
-      "updatedAt": "2026-11-25T01:59:50.801Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:27.405Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "normcore-normcore": {
       "id": "normcore-normcore",
@@ -2021,15 +2021,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 182,
+      "currentRank": 180,
       "previousRank": 828,
       "rankChange": 218,
       "currentReviews": 34,
       "previousReviews": 34,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.606Z",
-      "updatedAt": "2026-11-25T02:22:47.346Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:20.861Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "atlantic-atlantic": {
       "id": "atlantic-atlantic",
@@ -2044,15 +2044,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "96%",
-      "currentRank": 231,
+      "currentRank": 224,
       "previousRank": 588,
       "rankChange": -154,
       "currentReviews": 226,
       "previousReviews": 226,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.552Z",
-      "updatedAt": "2026-11-25T02:30:20.857Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:34.138Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "piano-piano": {
       "id": "piano-piano",
@@ -2067,15 +2067,15 @@
         "clothing"
       ],
       "rating": "98%",
-      "currentRank": 129,
+      "currentRank": 134,
       "previousRank": 717,
       "rankChange": 629,
       "currentReviews": 42,
       "previousReviews": 42,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.530Z",
-      "updatedAt": "2026-11-25T01:59:41.793Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:17.502Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "abode-abode": {
       "id": "abode-abode",
@@ -2090,15 +2090,15 @@
         "garden"
       ],
       "rating": "88%",
-      "currentRank": 772,
+      "currentRank": 412,
       "previousRank": 83,
       "rankChange": 1,
       "currentReviews": 17,
       "previousReviews": 17,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.516Z",
-      "updatedAt": "2026-11-25T02:14:54.266Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:27:49.330Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "madrid-madrid": {
       "id": "madrid-madrid",
@@ -2113,15 +2113,15 @@
         "clothing"
       ],
       "rating": "94%",
-      "currentRank": 78,
+      "currentRank": 76,
       "previousRank": 805,
       "rankChange": 733,
       "currentReviews": 62,
       "previousReviews": 62,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.482Z",
-      "updatedAt": "2026-11-25T01:59:39.335Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:12.946Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "essentials-essentials": {
       "id": "essentials-essentials",
@@ -2136,15 +2136,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 343,
+      "currentRank": 331,
       "previousRank": 526,
       "rankChange": -179,
       "currentReviews": 13,
       "previousReviews": 13,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.477Z",
-      "updatedAt": "2026-11-25T01:59:49.166Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:27.117Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "copenhagen-copenhagen": {
       "id": "copenhagen-copenhagen",
@@ -2159,15 +2159,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 435,
+      "currentRank": 425,
       "previousRank": 788,
       "rankChange": 147,
       "currentReviews": 14,
       "previousReviews": 14,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.417Z",
-      "updatedAt": "2026-11-25T01:59:51.227Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:29.290Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "takeout-takeout": {
       "id": "takeout-takeout",
@@ -2182,15 +2182,15 @@
         "food-and-drink"
       ],
       "rating": "67%",
-      "currentRank": 1117,
+      "currentRank": 1106,
       "previousRank": 652,
       "rankChange": -196,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.412Z",
-      "updatedAt": "2026-11-25T02:13:03.813Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:53.843Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "divide-divide": {
       "id": "divide-divide",
@@ -2205,15 +2205,15 @@
         "toys"
       ],
       "rating": "92%",
-      "currentRank": 337,
+      "currentRank": 327,
       "previousRank": 388,
       "rankChange": -216,
       "currentReviews": 13,
       "previousReviews": 13,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.311Z",
-      "updatedAt": "2026-11-25T02:47:00.253Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:03:12.630Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "neat-neat": {
       "id": "neat-neat",
@@ -2235,8 +2235,8 @@
       "previousReviews": 24,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.306Z",
-      "updatedAt": "2026-11-25T01:59:40.426Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:15.726Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "eurus-eurus": {
       "id": "eurus-eurus",
@@ -2251,15 +2251,15 @@
         "beauty"
       ],
       "rating": "99%",
-      "currentRank": 30,
+      "currentRank": 27,
       "previousRank": 14,
       "rankChange": -653,
       "currentReviews": 619,
       "previousReviews": 619,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.216Z",
-      "updatedAt": "2026-11-25T01:44:21.527Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:54.179Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "vision-vision": {
       "id": "vision-vision",
@@ -2274,15 +2274,15 @@
         "electronics"
       ],
       "rating": "88%",
-      "currentRank": 230,
+      "currentRank": 225,
       "previousRank": 660,
       "rankChange": -4,
       "currentReviews": 147,
       "previousReviews": 147,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.198Z",
-      "updatedAt": "2026-11-25T02:05:06.676Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:16.333Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "outsiders-outsiders": {
       "id": "outsiders-outsiders",
@@ -2297,15 +2297,15 @@
         "clothing"
       ],
       "rating": "96%",
-      "currentRank": 123,
+      "currentRank": 127,
       "previousRank": 829,
       "rankChange": 80,
       "currentReviews": 23,
       "previousReviews": 23,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.160Z",
-      "updatedAt": "2026-11-25T01:59:41.378Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:17.216Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "starlite-starlite": {
       "id": "starlite-starlite",
@@ -2320,15 +2320,15 @@
         "electronics"
       ],
       "rating": "93%",
-      "currentRank": 160,
+      "currentRank": 159,
       "previousRank": 597,
       "rankChange": -150,
       "currentReviews": 27,
       "previousReviews": 27,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.156Z",
-      "updatedAt": "2026-11-25T02:05:06.131Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:14.929Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "cascade-cascade": {
       "id": "cascade-cascade",
@@ -2343,15 +2343,15 @@
         "clothing"
       ],
       "rating": "98%",
-      "currentRank": 131,
+      "currentRank": 124,
       "previousRank": 113,
       "rankChange": -456,
       "currentReviews": 100,
       "previousReviews": 100,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.020Z",
-      "updatedAt": "2026-11-25T01:59:41.929Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:16.927Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "sitar-sitar": {
       "id": "sitar-sitar",
@@ -2373,8 +2373,8 @@
       "previousReviews": 55,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.015Z",
-      "updatedAt": "2026-11-25T02:22:46.095Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:19.398Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "parallax-parallax": {
       "id": "parallax-parallax",
@@ -2389,15 +2389,15 @@
         "clothing"
       ],
       "rating": "96%",
-      "currentRank": 140,
+      "currentRank": 135,
       "previousRank": 336,
       "rankChange": -387,
       "currentReviews": 250,
       "previousReviews": 250,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:21.005Z",
-      "updatedAt": "2026-11-25T01:59:42.204Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:17.690Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "nimbus-nimbus": {
       "id": "nimbus-nimbus",
@@ -2412,15 +2412,15 @@
         "clothing"
       ],
       "rating": "94%",
-      "currentRank": 124,
+      "currentRank": 121,
       "previousRank": 302,
       "rankChange": -219,
       "currentReviews": 51,
       "previousReviews": 51,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.893Z",
-      "updatedAt": "2026-11-25T01:59:41.513Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:16.628Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "empire-empire": {
       "id": "empire-empire",
@@ -2435,15 +2435,15 @@
         "home"
       ],
       "rating": "79%",
-      "currentRank": 75,
+      "currentRank": 72,
       "previousRank": 686,
       "rankChange": 404,
       "currentReviews": 486,
       "previousReviews": 486,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.811Z",
-      "updatedAt": "2026-11-25T02:22:45.401Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:17.294Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "zest-zest": {
       "id": "zest-zest",
@@ -2458,15 +2458,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 72,
+      "currentRank": 70,
       "previousRank": 493,
       "rankChange": -292,
       "currentReviews": 238,
       "previousReviews": 238,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.783Z",
-      "updatedAt": "2026-11-25T01:59:39.064Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:12.041Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "local-local": {
       "id": "local-local",
@@ -2481,15 +2481,15 @@
         "food-and-drink"
       ],
       "rating": "98%",
-      "currentRank": 47,
+      "currentRank": 40,
       "previousRank": 677,
       "rankChange": -2,
       "currentReviews": 97,
       "previousReviews": 97,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.761Z",
-      "updatedAt": "2026-11-25T02:12:52.471Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:41.382Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "xtra-xtra": {
       "id": "xtra-xtra",
@@ -2504,15 +2504,15 @@
         "electronics"
       ],
       "rating": "98%",
-      "currentRank": 52,
+      "currentRank": 47,
       "previousRank": 674,
       "rankChange": 411,
       "currentReviews": 414,
       "previousReviews": 414,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.747Z",
-      "updatedAt": "2026-11-25T02:05:04.489Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:11.310Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "palo-alto-palo-alto": {
       "id": "palo-alto-palo-alto",
@@ -2534,8 +2534,8 @@
       "previousReviews": 313,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.721Z",
-      "updatedAt": "2026-11-25T01:59:35.423Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:08.963Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "wonder-wonder": {
       "id": "wonder-wonder",
@@ -2557,8 +2557,8 @@
       "previousReviews": 151,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.675Z",
-      "updatedAt": "2026-11-25T01:44:21.807Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:54.480Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "roam-roam": {
       "id": "roam-roam",
@@ -2573,15 +2573,15 @@
         "clothing"
       ],
       "rating": "80%",
-      "currentRank": 503,
+      "currentRank": 652,
       "previousRank": 449,
       "rankChange": 3,
       "currentReviews": 5,
       "previousReviews": 5,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.580Z",
-      "updatedAt": "2026-11-25T01:59:53.271Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:35.463Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "brava-brava": {
       "id": "brava-brava",
@@ -2596,15 +2596,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 1236,
+      "currentRank": 1151,
       "previousRank": 646,
       "rankChange": 204,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.548Z",
-      "updatedAt": "2026-11-25T02:05:13.659Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:24.022Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "atom-atom": {
       "id": "atom-atom",
@@ -2619,15 +2619,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 1205,
+      "currentRank": 1280,
       "previousRank": 441,
       "rankChange": 0,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.543Z",
-      "updatedAt": "2026-11-25T02:13:05.179Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:55.859Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "cama-cama": {
       "id": "cama-cama",
@@ -2642,15 +2642,15 @@
         "home"
       ],
       "rating": "86%",
-      "currentRank": 1127,
+      "currentRank": 1122,
       "previousRank": 205,
       "rankChange": -440,
       "currentReviews": 7,
       "previousReviews": 7,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.538Z",
-      "updatedAt": "2026-11-25T02:22:59.628Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:35.148Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "minimalista-minimalista": {
       "id": "minimalista-minimalista",
@@ -2665,15 +2665,15 @@
         "home"
       ],
       "rating": "94%",
-      "currentRank": 114,
+      "currentRank": 111,
       "previousRank": 194,
       "rankChange": -233,
       "currentReviews": 31,
       "previousReviews": 31,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.512Z",
-      "updatedAt": "2026-11-25T02:22:46.237Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:18.938Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "urban-urban": {
       "id": "urban-urban",
@@ -2688,15 +2688,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 1049,
+      "currentRank": 980,
       "previousRank": 193,
       "rankChange": -446,
       "currentReviews": 9,
       "previousReviews": 9,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.501Z",
-      "updatedAt": "2026-11-25T02:22:59.079Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:33.212Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "soul-soul": {
       "id": "soul-soul",
@@ -2711,15 +2711,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 429,
+      "currentRank": 420,
       "previousRank": 632,
       "rankChange": 208,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.490Z",
-      "updatedAt": "2026-11-25T01:59:50.666Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:28.862Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "portland-portland": {
       "id": "portland-portland",
@@ -2734,15 +2734,15 @@
         "entertainment"
       ],
       "rating": "100%",
-      "currentRank": 434,
+      "currentRank": 422,
       "previousRank": 409,
       "rankChange": -430,
       "currentReviews": 14,
       "previousReviews": 14,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.433Z",
-      "updatedAt": "2026-11-25T02:06:24.704Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:18:41.008Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "select-select": {
       "id": "select-select",
@@ -2757,15 +2757,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 724,
+      "currentRank": 347,
       "previousRank": 772,
       "rankChange": 600,
       "currentReviews": 13,
       "previousReviews": 13,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.376Z",
-      "updatedAt": "2026-11-25T01:59:58.187Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:27.698Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "pesto-pesto": {
       "id": "pesto-pesto",
@@ -2780,15 +2780,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 344,
+      "currentRank": 332,
       "previousRank": 615,
       "rankChange": -3,
       "currentReviews": 13,
       "previousReviews": 13,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.364Z",
-      "updatedAt": "2026-11-25T02:12:55.358Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:44.457Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "grid-grid": {
       "id": "grid-grid",
@@ -2803,15 +2803,15 @@
         "beauty"
       ],
       "rating": "90%",
-      "currentRank": 149,
+      "currentRank": 161,
       "previousRank": 164,
       "rankChange": -231,
       "currentReviews": 140,
       "previousReviews": 140,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.321Z",
-      "updatedAt": "2026-11-25T01:44:23.140Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:55.944Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "masonry-masonry": {
       "id": "masonry-masonry",
@@ -2826,15 +2826,15 @@
         "clothing"
       ],
       "rating": "89%",
-      "currentRank": 431,
+      "currentRank": 421,
       "previousRank": 397,
       "rankChange": -216,
       "currentReviews": 56,
       "previousReviews": 56,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.313Z",
-      "updatedAt": "2026-11-25T01:59:50.939Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:29.005Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "capital-capital": {
       "id": "capital-capital",
@@ -2849,15 +2849,15 @@
         "sports"
       ],
       "rating": "89%",
-      "currentRank": 323,
+      "currentRank": 312,
       "previousRank": 165,
       "rankChange": 3,
-      "currentReviews": 134,
+      "currentReviews": 135,
       "previousReviews": 134,
-      "reviewsChange": 0,
+      "reviewsChange": 1,
       "createdAt": "2025-07-18T03:53:20.307Z",
-      "updatedAt": "2026-11-25T02:45:00.479Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:01:01.063Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "forge-forge": {
       "id": "forge-forge",
@@ -2872,15 +2872,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "100%",
-      "currentRank": 312,
+      "currentRank": 301,
       "previousRank": 611,
       "rankChange": 448,
       "currentReviews": 15,
       "previousReviews": 15,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.302Z",
-      "updatedAt": "2026-11-25T02:30:21.949Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:36.055Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "keystone-keystone": {
       "id": "keystone-keystone",
@@ -2902,8 +2902,8 @@
       "previousReviews": 12,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.216Z",
-      "updatedAt": "2026-11-25T01:59:47.663Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:26.194Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "king-king": {
       "id": "king-king",
@@ -2918,15 +2918,15 @@
         "clothing"
       ],
       "rating": "88%",
-      "currentRank": 321,
+      "currentRank": 306,
       "previousRank": 746,
       "rankChange": 182,
       "currentReviews": 25,
       "previousReviews": 25,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.172Z",
-      "updatedAt": "2026-11-25T01:59:48.072Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:25.712Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "monochrome-monochrome": {
       "id": "monochrome-monochrome",
@@ -2948,8 +2948,8 @@
       "previousReviews": 30,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.162Z",
-      "updatedAt": "2026-11-25T01:31:17.581Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:40:54.468Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "koto-koto": {
       "id": "koto-koto",
@@ -2964,15 +2964,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 134,
+      "currentRank": 133,
       "previousRank": 135,
       "rankChange": -2,
       "currentReviews": 38,
       "previousReviews": 38,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.149Z",
-      "updatedAt": "2026-11-25T01:59:42.068Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:17.359Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "energy-energy": {
       "id": "energy-energy",
@@ -2987,15 +2987,15 @@
         "sports"
       ],
       "rating": "100%",
-      "currentRank": 146,
+      "currentRank": 145,
       "previousRank": 134,
       "rankChange": -458,
       "currentReviews": 26,
       "previousReviews": 26,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.143Z",
-      "updatedAt": "2026-11-25T02:44:58.283Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:00:59.437Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "loft-loft": {
       "id": "loft-loft",
@@ -3010,15 +3010,15 @@
         "home"
       ],
       "rating": "91%",
-      "currentRank": 203,
+      "currentRank": 206,
       "previousRank": 374,
       "rankChange": 239,
       "currentReviews": 175,
       "previousReviews": 175,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.137Z",
-      "updatedAt": "2026-11-25T02:22:47.624Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:21.147Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "colors-colors": {
       "id": "colors-colors",
@@ -3033,15 +3033,15 @@
         "sports"
       ],
       "rating": "93%",
-      "currentRank": 295,
+      "currentRank": 285,
       "previousRank": 372,
       "rankChange": 239,
       "currentReviews": 106,
       "previousReviews": 106,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.128Z",
-      "updatedAt": "2026-11-25T02:44:59.739Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:01:00.774Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "sunrise-sunrise": {
       "id": "sunrise-sunrise",
@@ -3056,15 +3056,15 @@
         "toys"
       ],
       "rating": "93%",
-      "currentRank": 177,
+      "currentRank": 175,
       "previousRank": 587,
       "rankChange": 219,
       "currentReviews": 123,
       "previousReviews": 123,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.112Z",
-      "updatedAt": "2026-11-25T02:46:59.703Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:03:11.366Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "galleria-galleria": {
       "id": "galleria-galleria",
@@ -3079,15 +3079,15 @@
         "bags"
       ],
       "rating": "99%",
-      "currentRank": 138,
+      "currentRank": 156,
       "previousRank": 360,
       "rankChange": 234,
       "currentReviews": 162,
       "previousReviews": 162,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.091Z",
-      "updatedAt": "2026-11-25T01:35:53.978Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:45:49.096Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "responsive-responsive": {
       "id": "responsive-responsive",
@@ -3102,15 +3102,15 @@
         "clothing"
       ],
       "rating": "96%",
-      "currentRank": 173,
+      "currentRank": 231,
       "previousRank": 121,
       "rankChange": -1,
       "currentReviews": 341,
       "previousReviews": 341,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.082Z",
-      "updatedAt": "2026-11-25T01:59:43.843Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:23.187Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "story-story": {
       "id": "story-story",
@@ -3125,15 +3125,15 @@
         "clothing"
       ],
       "rating": "95%",
-      "currentRank": 165,
+      "currentRank": 142,
       "previousRank": 572,
       "rankChange": 11,
       "currentReviews": 22,
       "previousReviews": 22,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.070Z",
-      "updatedAt": "2026-11-25T01:59:43.705Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:17.900Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "mr-parker-mr-parker": {
       "id": "mr-parker-mr-parker",
@@ -3148,15 +3148,15 @@
         "clothing"
       ],
       "rating": "95%",
-      "currentRank": 107,
+      "currentRank": 114,
       "previousRank": 119,
       "rankChange": -2,
       "currentReviews": 207,
       "previousReviews": 207,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.064Z",
-      "updatedAt": "2026-11-25T01:59:40.561Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:15.974Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "stockmart-stockmart": {
       "id": "stockmart-stockmart",
@@ -3171,15 +3171,15 @@
         "electronics"
       ],
       "rating": "97%",
-      "currentRank": 198,
+      "currentRank": 242,
       "previousRank": 820,
       "rankChange": -1,
       "currentReviews": 30,
       "previousReviews": 30,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.048Z",
-      "updatedAt": "2026-11-25T02:05:06.540Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:17.364Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "align-align": {
       "id": "align-align",
@@ -3194,15 +3194,15 @@
         "beauty"
       ],
       "rating": "100%",
-      "currentRank": 144,
+      "currentRank": 139,
       "previousRank": 116,
       "rankChange": -460,
       "currentReviews": 38,
       "previousReviews": 38,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.036Z",
-      "updatedAt": "2026-11-25T01:44:23.003Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:55.638Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "paper-paper": {
       "id": "paper-paper",
@@ -3217,15 +3217,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "96%",
-      "currentRank": 192,
+      "currentRank": 199,
       "previousRank": 568,
       "rankChange": -165,
       "currentReviews": 53,
       "previousReviews": 53,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:20.023Z",
-      "updatedAt": "2026-11-25T02:30:20.310Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:32.946Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "california-california": {
       "id": "california-california",
@@ -3240,15 +3240,15 @@
         "clothing"
       ],
       "rating": "98%",
-      "currentRank": 201,
+      "currentRank": 203,
       "previousRank": 112,
       "rankChange": 9,
       "currentReviews": 82,
       "previousReviews": 82,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.990Z",
-      "updatedAt": "2026-11-25T01:59:44.792Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:21.974Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "alchemy-alchemy": {
       "id": "alchemy-alchemy",
@@ -3263,15 +3263,15 @@
         "sports"
       ],
       "rating": "98%",
-      "currentRank": 133,
+      "currentRank": 126,
       "previousRank": 337,
       "rankChange": 6,
       "currentReviews": 58,
       "previousReviews": 58,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.985Z",
-      "updatedAt": "2026-11-25T02:44:58.148Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:00:59.289Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "mavon-mavon": {
       "id": "mavon-mavon",
@@ -3286,15 +3286,15 @@
         "clothing"
       ],
       "rating": "94%",
-      "currentRank": 228,
+      "currentRank": 220,
       "previousRank": 583,
       "rankChange": -155,
       "currentReviews": 31,
       "previousReviews": 31,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.941Z",
-      "updatedAt": "2026-11-25T01:59:45.473Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:22.585Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "veena-veena": {
       "id": "veena-veena",
@@ -3309,15 +3309,15 @@
         "electronics"
       ],
       "rating": "99%",
-      "currentRank": 125,
+      "currentRank": 123,
       "previousRank": 325,
       "rankChange": -221,
       "currentReviews": 110,
       "previousReviews": 110,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.856Z",
-      "updatedAt": "2026-11-25T02:05:05.719Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:12.750Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "spark-spark": {
       "id": "spark-spark",
@@ -3332,15 +3332,15 @@
         "clothing"
       ],
       "rating": "92%",
-      "currentRank": 126,
+      "currentRank": 122,
       "previousRank": 549,
       "rankChange": 449,
       "currentReviews": 37,
       "previousReviews": 37,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.803Z",
-      "updatedAt": "2026-11-25T01:59:41.650Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:16.774Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "toyo-toyo": {
       "id": "toyo-toyo",
@@ -3355,15 +3355,15 @@
         "toys"
       ],
       "rating": "95%",
-      "currentRank": 105,
+      "currentRank": 97,
       "previousRank": 532,
       "rankChange": 451,
       "currentReviews": 20,
       "previousReviews": 20,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.798Z",
-      "updatedAt": "2026-11-25T02:46:59.566Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:03:11.217Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "startup-startup": {
       "id": "startup-startup",
@@ -3378,15 +3378,15 @@
         "beauty"
       ],
       "rating": "83%",
-      "currentRank": 319,
+      "currentRank": 303,
       "previousRank": 706,
       "rankChange": 180,
       "currentReviews": 103,
       "previousReviews": 103,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.776Z",
-      "updatedAt": "2026-11-25T01:44:26.009Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:58.554Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "vantage-vantage": {
       "id": "vantage-vantage",
@@ -3401,15 +3401,15 @@
         "beauty"
       ],
       "rating": "93%",
-      "currentRank": 162,
+      "currentRank": 160,
       "previousRank": 525,
       "rankChange": 431,
       "currentReviews": 230,
       "previousReviews": 230,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.737Z",
-      "updatedAt": "2026-11-25T01:44:23.275Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:55.793Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "satoshi-satoshi": {
       "id": "satoshi-satoshi",
@@ -3424,15 +3424,15 @@
         "clothing"
       ],
       "rating": "97%",
-      "currentRank": 92,
+      "currentRank": 100,
       "previousRank": 702,
       "rankChange": -1,
       "currentReviews": 33,
       "previousReviews": 33,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.730Z",
-      "updatedAt": "2026-11-25T01:59:39.884Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:14.811Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "bullet-bullet": {
       "id": "bullet-bullet",
@@ -3447,15 +3447,15 @@
         "beauty"
       ],
       "rating": "94%",
-      "currentRank": 119,
+      "currentRank": 110,
       "previousRank": 534,
       "rankChange": 2,
       "currentReviews": 35,
       "previousReviews": 35,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.716Z",
-      "updatedAt": "2026-11-25T01:44:22.646Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:55.344Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "athens-athens": {
       "id": "athens-athens",
@@ -3470,15 +3470,15 @@
         "hardware"
       ],
       "rating": "100%",
-      "currentRank": 65,
+      "currentRank": 58,
       "previousRank": 690,
       "rankChange": 178,
       "currentReviews": 80,
       "previousReviews": 80,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.680Z",
-      "updatedAt": "2026-11-25T02:15:51.911Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:28:53.486Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "beyond-beyond": {
       "id": "beyond-beyond",
@@ -3493,15 +3493,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "93%",
-      "currentRank": 142,
+      "currentRank": 226,
       "previousRank": 300,
       "rankChange": -217,
       "currentReviews": 75,
       "previousReviews": 75,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.674Z",
-      "updatedAt": "2026-11-25T02:30:19.897Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:34.432Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "refine-refine": {
       "id": "refine-refine",
@@ -3516,15 +3516,15 @@
         "sports"
       ],
       "rating": "79%",
-      "currentRank": 806,
+      "currentRank": 834,
       "previousRank": 47,
       "rankChange": -639,
       "currentReviews": 29,
       "previousReviews": 29,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.549Z",
-      "updatedAt": "2026-11-25T02:45:05.518Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:01:06.366Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "aurora-aurora": {
       "id": "aurora-aurora",
@@ -3539,15 +3539,15 @@
         "clothing"
       ],
       "rating": "97%",
-      "currentRank": 84,
+      "currentRank": 88,
       "previousRank": 288,
       "rankChange": 234,
       "currentReviews": 60,
       "previousReviews": 60,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.542Z",
-      "updatedAt": "2026-11-25T01:59:39.610Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:13.823Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "gain-gain": {
       "id": "gain-gain",
@@ -3569,8 +3569,8 @@
       "previousReviews": 82,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.503Z",
-      "updatedAt": "2026-11-25T01:59:39.199Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:12.642Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "pastarina-pastarina": {
       "id": "pastarina-pastarina",
@@ -3585,15 +3585,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 1106,
+      "currentRank": 1173,
       "previousRank": 57,
       "rankChange": -478,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.473Z",
-      "updatedAt": "2026-11-25T02:13:03.679Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:54.717Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "sahara-sahara": {
       "id": "sahara-sahara",
@@ -3608,15 +3608,15 @@
         "clothing"
       ],
       "rating": "93%",
-      "currentRank": 88,
+      "currentRank": 86,
       "previousRank": 277,
       "rankChange": 237,
       "currentReviews": 107,
       "previousReviews": 107,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.467Z",
-      "updatedAt": "2026-11-25T01:59:39.748Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:13.540Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "expanse-expanse": {
       "id": "expanse-expanse",
@@ -3631,15 +3631,15 @@
         "home"
       ],
       "rating": "93%",
-      "currentRank": 60,
+      "currentRank": 56,
       "previousRank": 38,
       "rankChange": -236,
       "currentReviews": 341,
       "previousReviews": 341,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.456Z",
-      "updatedAt": "2026-11-25T02:22:45.263Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:16.617Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "blockshop-blockshop": {
       "id": "blockshop-blockshop",
@@ -3654,15 +3654,15 @@
         "beauty"
       ],
       "rating": "96%",
-      "currentRank": 66,
+      "currentRank": 65,
       "previousRank": 489,
       "rankChange": -3,
       "currentReviews": 421,
       "previousReviews": 421,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.410Z",
-      "updatedAt": "2026-11-25T01:44:22.218Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:54.914Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "sleek-sleek": {
       "id": "sleek-sleek",
@@ -3684,8 +3684,8 @@
       "previousReviews": 628,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.381Z",
-      "updatedAt": "2026-11-25T01:44:21.387Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:54.031Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "xclusive-xclusive": {
       "id": "xclusive-xclusive",
@@ -3700,15 +3700,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "98%",
-      "currentRank": 86,
+      "currentRank": 83,
       "previousRank": 485,
       "rankChange": 457,
       "currentReviews": 174,
       "previousReviews": 174,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.375Z",
-      "updatedAt": "2026-11-25T02:30:19.624Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:32.005Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "reformation-reformation": {
       "id": "reformation-reformation",
@@ -3723,15 +3723,15 @@
         "clothing"
       ],
       "rating": "93%",
-      "currentRank": 62,
+      "currentRank": 63,
       "previousRank": 484,
       "rankChange": 227,
       "currentReviews": 259,
       "previousReviews": 259,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.346Z",
-      "updatedAt": "2026-11-25T01:59:37.964Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:11.218Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "broadcast-broadcast": {
       "id": "broadcast-broadcast",
@@ -3753,8 +3753,8 @@
       "previousReviews": 287,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.338Z",
-      "updatedAt": "2026-11-25T02:30:19.065Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:30.750Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "venue-venue": {
       "id": "venue-venue",
@@ -3769,15 +3769,15 @@
         "clothing"
       ],
       "rating": "98%",
-      "currentRank": 61,
+      "currentRank": 66,
       "previousRank": 764,
       "rankChange": 509,
       "currentReviews": 537,
       "previousReviews": 537,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.332Z",
-      "updatedAt": "2026-11-25T01:59:37.537Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:11.435Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "impulse-impulse": {
       "id": "impulse-impulse",
@@ -3792,15 +3792,15 @@
         "clothing"
       ],
       "rating": "94%",
-      "currentRank": 25,
+      "currentRank": 28,
       "previousRank": 252,
       "rankChange": 2,
       "currentReviews": 1306,
       "previousReviews": 1306,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.300Z",
-      "updatedAt": "2026-11-25T01:59:35.010Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:08.669Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "flow-flow": {
       "id": "flow-flow",
@@ -3815,15 +3815,15 @@
         "food-and-drink"
       ],
       "rating": "91%",
-      "currentRank": 71,
+      "currentRank": 68,
       "previousRank": 16,
       "rankChange": -232,
-      "currentReviews": 390,
+      "currentReviews": 391,
       "previousReviews": 390,
-      "reviewsChange": 0,
+      "reviewsChange": 1,
       "createdAt": "2025-07-18T03:53:19.276Z",
-      "updatedAt": "2026-11-25T02:12:52.749Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:41.825Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "symmetry-symmetry": {
       "id": "symmetry-symmetry",
@@ -3838,15 +3838,15 @@
         "clothing"
       ],
       "rating": "94%",
-      "currentRank": 29,
+      "currentRank": 24,
       "previousRank": 15,
       "rankChange": 5,
       "currentReviews": 392,
       "previousReviews": 392,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.271Z",
-      "updatedAt": "2026-11-25T01:59:35.149Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:08.521Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "primavera-primavera": {
       "id": "primavera-primavera",
@@ -3861,15 +3861,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "100%",
-      "currentRank": 331,
+      "currentRank": 323,
       "previousRank": 439,
       "rankChange": -352,
       "currentReviews": 17,
       "previousReviews": 17,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.230Z",
-      "updatedAt": "2026-11-25T02:30:22.088Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:36.364Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "polyform-polyform": {
       "id": "polyform-polyform",
@@ -3884,15 +3884,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 1244,
+      "currentRank": 1206,
       "previousRank": 235,
       "rankChange": -225,
       "currentReviews": 4,
       "previousReviews": 4,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.213Z",
-      "updatedAt": "2026-11-25T02:23:00.172Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:36.031Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "lute-lute": {
       "id": "lute-lute",
@@ -3907,15 +3907,15 @@
         "toys"
       ],
       "rating": "100%",
-      "currentRank": 1105,
+      "currentRank": 1246,
       "previousRank": 233,
       "rankChange": -1,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.203Z",
-      "updatedAt": "2026-11-25T02:47:03.305Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:03:16.800Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "swiss-swiss": {
       "id": "swiss-swiss",
@@ -3930,15 +3930,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 210,
+      "currentRank": 223,
       "previousRank": 232,
       "rankChange": -226,
       "currentReviews": 10,
       "previousReviews": 10,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.198Z",
-      "updatedAt": "2026-11-25T02:22:47.893Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:21.439Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "machina-machina": {
       "id": "machina-machina",
@@ -3953,15 +3953,15 @@
         "wellness"
       ],
       "rating": null,
-      "currentRank": 1211,
+      "currentRank": 1150,
       "previousRank": 455,
       "rankChange": -1,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.193Z",
-      "updatedAt": "2026-11-25T02:50:06.988Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:06:40.369Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "banjo-banjo": {
       "id": "banjo-banjo",
@@ -3976,15 +3976,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 1143,
+      "currentRank": 1188,
       "previousRank": 221,
       "rankChange": -230,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.174Z",
-      "updatedAt": "2026-11-25T02:00:08.286Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:48.285Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "handmade-handmade": {
       "id": "handmade-handmade",
@@ -3999,15 +3999,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "100%",
-      "currentRank": 814,
+      "currentRank": 808,
       "previousRank": 793,
       "rankChange": 346,
       "currentReviews": 4,
       "previousReviews": 4,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.141Z",
-      "updatedAt": "2026-11-25T02:30:28.667Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:58.285Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "vincent-vincent": {
       "id": "vincent-vincent",
@@ -4022,15 +4022,15 @@
         "food-and-drink"
       ],
       "rating": "88%",
-      "currentRank": 857,
+      "currentRank": 868,
       "previousRank": 440,
       "rankChange": 1,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.107Z",
-      "updatedAt": "2026-11-25T02:12:59.858Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:49.739Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "frame-frame": {
       "id": "frame-frame",
@@ -4045,15 +4045,15 @@
         "clothing"
       ],
       "rating": "88%",
-      "currentRank": 1108,
+      "currentRank": 1093,
       "previousRank": 436,
       "rankChange": 233,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.102Z",
-      "updatedAt": "2026-11-25T02:00:07.338Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:46.996Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "sampo-sampo": {
       "id": "sampo-sampo",
@@ -4068,15 +4068,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "100%",
-      "currentRank": 802,
+      "currentRank": 795,
       "previousRank": 206,
       "rankChange": 2,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.096Z",
-      "updatedAt": "2026-11-25T02:30:28.528Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:57.585Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "nostalgia-nostalgia": {
       "id": "nostalgia-nostalgia",
@@ -4091,15 +4091,15 @@
         "clothing"
       ],
       "rating": "88%",
-      "currentRank": 856,
+      "currentRank": 894,
       "previousRank": 786,
       "rankChange": 354,
       "currentReviews": 16,
       "previousReviews": 16,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.067Z",
-      "updatedAt": "2026-11-25T02:00:02.964Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:42.586Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "amber-amber": {
       "id": "amber-amber",
@@ -4114,15 +4114,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 355,
+      "currentRank": 346,
       "previousRank": 192,
       "rankChange": -446,
       "currentReviews": 11,
       "previousReviews": 11,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.062Z",
-      "updatedAt": "2026-11-25T01:59:49.436Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:27.555Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "shark-shark": {
       "id": "shark-shark",
@@ -4137,15 +4137,15 @@
         "clothing"
       ],
       "rating": "91%",
-      "currentRank": 332,
+      "currentRank": 324,
       "previousRank": 202,
       "rankChange": 0,
       "currentReviews": 11,
       "previousReviews": 11,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.046Z",
-      "updatedAt": "2026-11-25T01:59:48.755Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:26.773Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "ascension-ascension": {
       "id": "ascension-ascension",
@@ -4160,15 +4160,15 @@
         "clothing"
       ],
       "rating": "94%",
-      "currentRank": 324,
+      "currentRank": 311,
       "previousRank": 423,
       "rankChange": 3,
       "currentReviews": 18,
       "previousReviews": 18,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.041Z",
-      "updatedAt": "2026-11-25T01:59:48.344Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:26.036Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "drop-drop": {
       "id": "drop-drop",
@@ -4183,15 +4183,15 @@
         "bags"
       ],
       "rating": "95%",
-      "currentRank": 169,
+      "currentRank": 162,
       "previousRank": 157,
       "rankChange": -31,
       "currentReviews": 20,
       "previousReviews": 20,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.022Z",
-      "updatedAt": "2026-11-25T01:35:54.115Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:45:49.241Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "azzel-azzel": {
       "id": "azzel-azzel",
@@ -4206,15 +4206,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "94%",
-      "currentRank": 992,
+      "currentRank": 1004,
       "previousRank": 418,
       "rankChange": 5,
       "currentReviews": 18,
       "previousReviews": 18,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.011Z",
-      "updatedAt": "2026-11-25T02:30:31.545Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:45:03.861Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "iris-iris": {
       "id": "iris-iris",
@@ -4229,15 +4229,15 @@
         "bags"
       ],
       "rating": "100%",
-      "currentRank": 433,
+      "currentRank": 345,
       "previousRank": 625,
       "rankChange": -5,
       "currentReviews": 12,
       "previousReviews": 12,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:19.006Z",
-      "updatedAt": "2026-11-25T01:35:55.345Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:45:50.251Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "berlin-berlin": {
       "id": "berlin-berlin",
@@ -4252,15 +4252,15 @@
         "clothing"
       ],
       "rating": "96%",
-      "currentRank": 164,
+      "currentRank": 146,
       "previousRank": 624,
       "rankChange": -216,
       "currentReviews": 26,
       "previousReviews": 26,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.995Z",
-      "updatedAt": "2026-11-25T01:59:43.567Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:18.337Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "emporium-emporium": {
       "id": "emporium-emporium",
@@ -4275,15 +4275,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 923,
+      "currentRank": 1017,
       "previousRank": 185,
       "rankChange": 2,
       "currentReviews": 6,
       "previousReviews": 6,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.991Z",
-      "updatedAt": "2026-11-25T02:13:01.221Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:51.796Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "strong-strong": {
       "id": "strong-strong",
@@ -4298,15 +4298,15 @@
         "shoes"
       ],
       "rating": "100%",
-      "currentRank": 340,
+      "currentRank": 329,
       "previousRank": 623,
       "rankChange": 442,
       "currentReviews": 7,
       "previousReviews": 7,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.975Z",
-      "updatedAt": "2026-11-25T02:40:32.018Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:56:10.809Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "space-space": {
       "id": "space-space",
@@ -4321,15 +4321,15 @@
         "shoes"
       ],
       "rating": "96%",
-      "currentRank": 264,
+      "currentRank": 354,
       "previousRank": 401,
       "rankChange": 4,
       "currentReviews": 23,
       "previousReviews": 23,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.867Z",
-      "updatedAt": "2026-11-25T02:40:31.881Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:56:11.038Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "san-francisco-san-francisco": {
       "id": "san-francisco-san-francisco",
@@ -4344,15 +4344,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 327,
+      "currentRank": 321,
       "previousRank": 151,
       "rankChange": -452,
       "currentReviews": 9,
       "previousReviews": 9,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.829Z",
-      "updatedAt": "2026-11-25T02:05:08.184Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:18.671Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "eclipse-eclipse": {
       "id": "eclipse-eclipse",
@@ -4367,15 +4367,15 @@
         "clothing"
       ],
       "rating": "87%",
-      "currentRank": 329,
+      "currentRank": 319,
       "previousRank": 609,
       "rankChange": 449,
       "currentReviews": 23,
       "previousReviews": 23,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.824Z",
-      "updatedAt": "2026-11-25T01:59:48.480Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:26.631Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "barcelona-barcelona": {
       "id": "barcelona-barcelona",
@@ -4390,15 +4390,15 @@
         "beauty"
       ],
       "rating": "100%",
-      "currentRank": 357,
+      "currentRank": 349,
       "previousRank": 830,
       "rankChange": 77,
       "currentReviews": 18,
       "previousReviews": 18,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.773Z",
-      "updatedAt": "2026-11-25T01:44:26.280Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:58.840Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "whisk-whisk": {
       "id": "whisk-whisk",
@@ -4413,15 +4413,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 95,
+      "currentRank": 98,
       "previousRank": 159,
       "rankChange": 12,
       "currentReviews": 22,
       "previousReviews": 22,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.768Z",
-      "updatedAt": "2026-11-25T02:12:53.023Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:42.118Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "exhibit-exhibit": {
       "id": "exhibit-exhibit",
@@ -4436,15 +4436,15 @@
         "art"
       ],
       "rating": "100%",
-      "currentRank": 308,
+      "currentRank": 292,
       "previousRank": 180,
       "rankChange": -224,
       "currentReviews": 18,
       "previousReviews": 18,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.752Z",
-      "updatedAt": "2026-11-25T01:31:18.483Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:40:54.761Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "borders-borders": {
       "id": "borders-borders",
@@ -4459,15 +4459,15 @@
         "clothing"
       ],
       "rating": "94%",
-      "currentRank": 317,
+      "currentRank": 302,
       "previousRank": 152,
       "rankChange": -678,
       "currentReviews": 18,
       "previousReviews": 18,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.734Z",
-      "updatedAt": "2026-11-25T01:59:47.935Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:25.405Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "futurer-futurer": {
       "id": "futurer-futurer",
@@ -4482,15 +4482,15 @@
         "electronics"
       ],
       "rating": "93%",
-      "currentRank": 94,
+      "currentRank": 107,
       "previousRank": 392,
       "rankChange": 236,
       "currentReviews": 57,
       "previousReviews": 57,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.722Z",
-      "updatedAt": "2026-11-25T02:05:05.308Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:12.358Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "meka-meka": {
       "id": "meka-meka",
@@ -4505,15 +4505,15 @@
         "auto"
       ],
       "rating": "89%",
-      "currentRank": 419,
+      "currentRank": 411,
       "previousRank": 744,
       "rankChange": 603,
       "currentReviews": 9,
       "previousReviews": 9,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.696Z",
-      "updatedAt": "2026-11-25T01:32:40.173Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:42:22.852Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "vivid-vivid": {
       "id": "vivid-vivid",
@@ -4528,15 +4528,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "96%",
-      "currentRank": 55,
+      "currentRank": 53,
       "previousRank": 136,
       "rankChange": -457,
       "currentReviews": 90,
       "previousReviews": 90,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.649Z",
-      "updatedAt": "2026-11-25T02:30:19.209Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:31.066Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "modular-modular": {
       "id": "modular-modular",
@@ -4551,15 +4551,15 @@
         "food-and-drink"
       ],
       "rating": "96%",
-      "currentRank": 101,
+      "currentRank": 108,
       "previousRank": 558,
       "rankChange": 453,
       "currentReviews": 225,
       "previousReviews": 225,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.643Z",
-      "updatedAt": "2026-11-25T02:12:53.163Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:42.423Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "agile-agile": {
       "id": "agile-agile",
@@ -4574,15 +4574,15 @@
         "clothing"
       ],
       "rating": "97%",
-      "currentRank": 242,
+      "currentRank": 240,
       "previousRank": 368,
       "rankChange": 2,
       "currentReviews": 33,
       "previousReviews": 33,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.622Z",
-      "updatedAt": "2026-11-25T01:59:46.022Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:23.331Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "electro-electro": {
       "id": "electro-electro",
@@ -4597,15 +4597,15 @@
         "electronics"
       ],
       "rating": "99%",
-      "currentRank": 141,
+      "currentRank": 132,
       "previousRank": 719,
       "rankChange": 383,
       "currentReviews": 91,
       "previousReviews": 91,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.617Z",
-      "updatedAt": "2026-11-25T02:05:05.857Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:13.786Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "avenue-avenue": {
       "id": "avenue-avenue",
@@ -4620,15 +4620,15 @@
         "clothing"
       ],
       "rating": "97%",
-      "currentRank": 108,
+      "currentRank": 104,
       "previousRank": 363,
       "rankChange": 3,
       "currentReviews": 257,
       "previousReviews": 257,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.602Z",
-      "updatedAt": "2026-11-25T01:59:40.695Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:15.426Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "showtime-showtime": {
       "id": "showtime-showtime",
@@ -4643,15 +4643,15 @@
         "home"
       ],
       "rating": "98%",
-      "currentRank": 139,
+      "currentRank": 140,
       "previousRank": 122,
       "rankChange": -235,
       "currentReviews": 295,
       "previousReviews": 295,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.591Z",
-      "updatedAt": "2026-11-25T02:22:46.789Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:20.262Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "district-district": {
       "id": "district-district",
@@ -4666,15 +4666,15 @@
         "clothing"
       ],
       "rating": "99%",
-      "currentRank": 116,
+      "currentRank": 119,
       "previousRank": 124,
       "rankChange": -460,
       "currentReviews": 703,
       "previousReviews": 703,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.578Z",
-      "updatedAt": "2026-11-25T01:59:40.970Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:16.336Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "retina-retina": {
       "id": "retina-retina",
@@ -4689,15 +4689,15 @@
         "clothing"
       ],
       "rating": "96%",
-      "currentRank": 232,
+      "currentRank": 228,
       "previousRank": 357,
       "rankChange": -223,
       "currentReviews": 295,
       "previousReviews": 295,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.572Z",
-      "updatedAt": "2026-11-25T01:59:45.610Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:22.889Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "expression-expression": {
       "id": "expression-expression",
@@ -4712,15 +4712,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "90%",
-      "currentRank": 167,
+      "currentRank": 171,
       "previousRank": 737,
       "rankChange": 381,
       "currentReviews": 71,
       "previousReviews": 71,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.567Z",
-      "updatedAt": "2026-11-25T02:30:20.035Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:32.657Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "igloo-igloo": {
       "id": "igloo-igloo",
@@ -4735,15 +4735,15 @@
         "sports"
       ],
       "rating": "100%",
-      "currentRank": 166,
+      "currentRank": 147,
       "previousRank": 347,
       "rankChange": -1,
       "currentReviews": 47,
       "previousReviews": 47,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.527Z",
-      "updatedAt": "2026-11-25T02:44:58.559Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:00:59.583Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "desert-desert": {
       "id": "desert-desert",
@@ -4758,15 +4758,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 83,
+      "currentRank": 81,
       "previousRank": 592,
       "rankChange": 450,
       "currentReviews": 22,
       "previousReviews": 22,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.504Z",
-      "updatedAt": "2026-11-25T01:59:39.472Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:13.232Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "charge-charge": {
       "id": "charge-charge",
@@ -4781,15 +4781,15 @@
         "electronics"
       ],
       "rating": "98%",
-      "currentRank": 93,
+      "currentRank": 87,
       "previousRank": 548,
       "rankChange": 455,
       "currentReviews": 63,
       "previousReviews": 63,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.480Z",
-      "updatedAt": "2026-11-25T02:05:05.171Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:11.906Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "pursuit-pursuit": {
       "id": "pursuit-pursuit",
@@ -4804,15 +4804,15 @@
         "sports"
       ],
       "rating": "98%",
-      "currentRank": 161,
+      "currentRank": 163,
       "previousRank": 98,
       "rankChange": -1,
       "currentReviews": 62,
       "previousReviews": 62,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.435Z",
-      "updatedAt": "2026-11-25T02:44:58.422Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:00:59.733Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "lorenza-lorenza": {
       "id": "lorenza-lorenza",
@@ -4827,15 +4827,15 @@
         "clothing"
       ],
       "rating": "89%",
-      "currentRank": 421,
+      "currentRank": 414,
       "previousRank": 546,
       "rankChange": 448,
       "currentReviews": 65,
       "previousReviews": 65,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.404Z",
-      "updatedAt": "2026-11-25T01:59:50.527Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:28.573Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "maranello-maranello": {
       "id": "maranello-maranello",
@@ -4850,15 +4850,15 @@
         "auto"
       ],
       "rating": "100%",
-      "currentRank": 99,
+      "currentRank": 94,
       "previousRank": 544,
       "rankChange": 457,
       "currentReviews": 31,
       "previousReviews": 31,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.392Z",
-      "updatedAt": "2026-11-25T01:32:39.205Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:42:21.819Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "area-area": {
       "id": "area-area",
@@ -4873,15 +4873,15 @@
         "clothing"
       ],
       "rating": "85%",
-      "currentRank": 789,
+      "currentRank": 415,
       "previousRank": 716,
       "rankChange": 395,
       "currentReviews": 13,
       "previousReviews": 13,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.379Z",
-      "updatedAt": "2026-11-25T02:00:00.773Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:28.717Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "emerge-emerge": {
       "id": "emerge-emerge",
@@ -4896,15 +4896,15 @@
         "clothing"
       ],
       "rating": "95%",
-      "currentRank": 159,
+      "currentRank": 153,
       "previousRank": 76,
       "rankChange": -732,
       "currentReviews": 61,
       "previousReviews": 61,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.358Z",
-      "updatedAt": "2026-11-25T01:59:43.430Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:18.779Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "kingdom-kingdom": {
       "id": "kingdom-kingdom",
@@ -4919,15 +4919,15 @@
         "office"
       ],
       "rating": "97%",
-      "currentRank": 234,
+      "currentRank": 229,
       "previousRank": 86,
       "rankChange": -455,
       "currentReviews": 210,
       "previousReviews": 210,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.349Z",
-      "updatedAt": "2026-11-25T02:34:22.482Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:49:32.627Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "paris-paris": {
       "id": "paris-paris",
@@ -4942,15 +4942,15 @@
         "clothing"
       ],
       "rating": "83%",
-      "currentRank": 239,
+      "currentRank": 268,
       "previousRank": 322,
       "rankChange": 3,
       "currentReviews": 29,
       "previousReviews": 29,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.310Z",
-      "updatedAt": "2026-11-25T01:59:45.886Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:24.064Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "cornerstone-cornerstone": {
       "id": "cornerstone-cornerstone",
@@ -4965,15 +4965,15 @@
         "home"
       ],
       "rating": "90%",
-      "currentRank": 87,
+      "currentRank": 84,
       "previousRank": 316,
       "rankChange": -215,
       "currentReviews": 50,
       "previousReviews": 50,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.296Z",
-      "updatedAt": "2026-11-25T02:22:45.547Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:17.696Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "pinnacle-pinnacle": {
       "id": "pinnacle-pinnacle",
@@ -4988,15 +4988,15 @@
         "home"
       ],
       "rating": "86%",
-      "currentRank": 310,
+      "currentRank": 297,
       "previousRank": 522,
       "rankChange": 454,
       "currentReviews": 37,
       "previousReviews": 37,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.227Z",
-      "updatedAt": "2026-11-25T02:22:48.854Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:22.317Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "honey-honey": {
       "id": "honey-honey",
@@ -5011,15 +5011,15 @@
         "pets"
       ],
       "rating": "94%",
-      "currentRank": 96,
+      "currentRank": 92,
       "previousRank": 61,
       "rankChange": -637,
       "currentReviews": 51,
       "previousReviews": 51,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.203Z",
-      "updatedAt": "2026-11-25T02:37:05.939Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:52:23.563Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "maker-maker": {
       "id": "maker-maker",
@@ -5034,15 +5034,15 @@
         "food-and-drink"
       ],
       "rating": "93%",
-      "currentRank": 274,
+      "currentRank": 266,
       "previousRank": 514,
       "rankChange": 0,
       "currentReviews": 96,
       "previousReviews": 96,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.178Z",
-      "updatedAt": "2026-11-25T02:12:54.812Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:43.883Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "next-next": {
       "id": "next-next",
@@ -5057,15 +5057,15 @@
         "home"
       ],
       "rating": "96%",
-      "currentRank": 110,
+      "currentRank": 95,
       "previousRank": 503,
       "rankChange": 456,
       "currentReviews": 95,
       "previousReviews": 95,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.157Z",
-      "updatedAt": "2026-11-25T02:22:45.958Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:18.060Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "editions-editions": {
       "id": "editions-editions",
@@ -5080,15 +5080,15 @@
         "food-and-drink"
       ],
       "rating": "91%",
-      "currentRank": 103,
+      "currentRank": 102,
       "previousRank": 42,
       "rankChange": -235,
       "currentReviews": 94,
       "previousReviews": 94,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.107Z",
-      "updatedAt": "2026-11-25T02:12:53.304Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:42.277Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "baseline-baseline": {
       "id": "baseline-baseline",
@@ -5103,15 +5103,15 @@
         "shoes"
       ],
       "rating": "99%",
-      "currentRank": 68,
+      "currentRank": 69,
       "previousRank": 684,
       "rankChange": 185,
       "currentReviews": 95,
       "previousReviews": 95,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.103Z",
-      "updatedAt": "2026-11-25T02:40:31.333Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:56:10.066Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "stretch-stretch": {
       "id": "stretch-stretch",
@@ -5125,16 +5125,16 @@
       "categories": [
         "beauty"
       ],
-      "rating": "88%",
-      "currentRank": 50,
+      "rating": "89%",
+      "currentRank": 44,
       "previousRank": 276,
       "rankChange": 237,
-      "currentReviews": 43,
+      "currentReviews": 44,
       "previousReviews": 43,
-      "reviewsChange": 0,
+      "reviewsChange": 1,
       "createdAt": "2025-07-18T03:53:18.088Z",
-      "updatedAt": "2026-11-25T01:44:22.082Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:54.627Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "luxe-luxe": {
       "id": "luxe-luxe",
@@ -5156,8 +5156,8 @@
       "previousReviews": 71,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.078Z",
-      "updatedAt": "2026-11-25T01:44:22.491Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:55.201Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "cello-cello": {
       "id": "cello-cello",
@@ -5172,15 +5172,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 115,
+      "currentRank": 113,
       "previousRank": 270,
       "rankChange": -221,
       "currentReviews": 80,
       "previousReviews": 80,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.073Z",
-      "updatedAt": "2026-11-25T02:05:05.444Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:12.507Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "impact-impact": {
       "id": "impact-impact",
@@ -5195,15 +5195,15 @@
         "electronics"
       ],
       "rating": "85%",
-      "currentRank": 46,
+      "currentRank": 39,
       "previousRank": 271,
       "rankChange": 236,
       "currentReviews": 201,
       "previousReviews": 201,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.063Z",
-      "updatedAt": "2026-11-25T02:05:04.081Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:10.708Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "release-release": {
       "id": "release-release",
@@ -5218,15 +5218,15 @@
         "clothing"
       ],
       "rating": "95%",
-      "currentRank": 43,
+      "currentRank": 42,
       "previousRank": 267,
       "rankChange": -221,
       "currentReviews": 118,
       "previousReviews": 118,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.041Z",
-      "updatedAt": "2026-11-25T01:59:35.559Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:09.108Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "be-yours-be-yours": {
       "id": "be-yours-be-yours",
@@ -5241,15 +5241,15 @@
         "beauty"
       ],
       "rating": "98%",
-      "currentRank": 33,
+      "currentRank": 34,
       "previousRank": 27,
       "rankChange": -234,
       "currentReviews": 703,
       "previousReviews": 703,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:18.021Z",
-      "updatedAt": "2026-11-25T01:44:21.671Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:54.330Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "shapes-shapes": {
       "id": "shapes-shapes",
@@ -5264,15 +5264,15 @@
         "food-and-drink"
       ],
       "rating": "99%",
-      "currentRank": 59,
+      "currentRank": 52,
       "previousRank": 667,
       "rankChange": 645,
       "currentReviews": 87,
       "previousReviews": 87,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.982Z",
-      "updatedAt": "2026-11-25T02:12:52.611Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:41.527Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "focal-focal": {
       "id": "focal-focal",
@@ -5294,8 +5294,8 @@
       "previousReviews": 335,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.961Z",
-      "updatedAt": "2026-11-25T02:05:03.665Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:10.562Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "ignite-ignite": {
       "id": "ignite-ignite",
@@ -5310,15 +5310,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 45,
+      "currentRank": 43,
       "previousRank": 19,
       "rankChange": -744,
       "currentReviews": 113,
       "previousReviews": 113,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.942Z",
-      "updatedAt": "2026-11-25T02:05:03.943Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:11.009Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "motion-motion": {
       "id": "motion-motion",
@@ -5333,15 +5333,15 @@
         "clothing"
       ],
       "rating": "97%",
-      "currentRank": 53,
+      "currentRank": 48,
       "previousRank": 250,
       "rankChange": -225,
       "currentReviews": 558,
       "previousReviews": 558,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.924Z",
-      "updatedAt": "2026-11-25T01:59:35.836Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:09.478Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "prestige-prestige": {
       "id": "prestige-prestige",
@@ -5356,15 +5356,15 @@
         "bags"
       ],
       "rating": "91%",
-      "currentRank": 32,
+      "currentRank": 29,
       "previousRank": 473,
       "rankChange": 461,
       "currentReviews": 876,
-      "previousReviews": 875,
-      "reviewsChange": 1,
+      "previousReviews": 876,
+      "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.918Z",
-      "updatedAt": "2026-11-25T01:35:53.566Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:45:48.639Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "zora-zora": {
       "id": "zora-zora",
@@ -5379,15 +5379,15 @@
         "entertainment"
       ],
       "rating": "100%",
-      "currentRank": 1312,
+      "currentRank": 1211,
       "previousRank": 237,
       "rankChange": 0,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.836Z",
-      "updatedAt": "2026-11-25T02:06:26.899Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:18:43.458Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "zero-zero": {
       "id": "zero-zero",
@@ -5402,15 +5402,15 @@
         "shoes"
       ],
       "rating": "100%",
-      "currentRank": 847,
+      "currentRank": 843,
       "previousRank": 462,
       "rankChange": 0,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.832Z",
-      "updatedAt": "2026-11-25T02:40:34.214Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:56:13.444Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "chord-chord": {
       "id": "chord-chord",
@@ -5425,15 +5425,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 1317,
+      "currentRank": 1268,
       "previousRank": 230,
       "rankChange": -229,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.773Z",
-      "updatedAt": "2026-11-25T02:00:11.578Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:49.717Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "master-master": {
       "id": "master-master",
@@ -5448,15 +5448,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 794,
+      "currentRank": 793,
       "previousRank": 231,
       "rankChange": 0,
       "currentReviews": 4,
       "previousReviews": 4,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.758Z",
-      "updatedAt": "2026-11-25T02:00:00.909Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:39.514Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "bespoke-bespoke": {
       "id": "bespoke-bespoke",
@@ -5471,15 +5471,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 770,
+      "currentRank": 769,
       "previousRank": 230,
       "rankChange": 0,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.739Z",
-      "updatedAt": "2026-11-25T01:59:59.816Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:38.491Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "aisle-aisle": {
       "id": "aisle-aisle",
@@ -5494,15 +5494,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 827,
+      "currentRank": 819,
       "previousRank": 227,
       "rankChange": 0,
       "currentReviews": 6,
       "previousReviews": 6,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.734Z",
-      "updatedAt": "2026-11-25T02:12:59.316Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:48.845Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "murmel-murmel": {
       "id": "murmel-murmel",
@@ -5517,15 +5517,15 @@
         "kids"
       ],
       "rating": "100%",
-      "currentRank": 1310,
+      "currentRank": 1140,
       "previousRank": 226,
       "rankChange": -2,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.728Z",
-      "updatedAt": "2026-11-25T02:33:07.191Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:48:03.109Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "redefine-redefine": {
       "id": "redefine-redefine",
@@ -5540,15 +5540,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 1052,
+      "currentRank": 1021,
       "previousRank": 653,
       "rankChange": 199,
       "currentReviews": 5,
       "previousReviews": 5,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.722Z",
-      "updatedAt": "2026-11-25T02:22:59.217Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:36:33.764Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "lumin-lumin": {
       "id": "lumin-lumin",
@@ -5563,15 +5563,15 @@
         "art"
       ],
       "rating": "100%",
-      "currentRank": 815,
+      "currentRank": 846,
       "previousRank": 225,
       "rankChange": 0,
       "currentReviews": 4,
       "previousReviews": 4,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.715Z",
-      "updatedAt": "2026-11-25T01:31:22.562Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:40:58.766Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "nexa-nexa": {
       "id": "nexa-nexa",
@@ -5586,15 +5586,15 @@
         "sports"
       ],
       "rating": "100%",
-      "currentRank": 1065,
+      "currentRank": 926,
       "previousRank": 224,
       "rankChange": 0,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.709Z",
-      "updatedAt": "2026-11-25T02:45:08.247Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:01:08.299Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "modules-modules": {
       "id": "modules-modules",
@@ -5609,15 +5609,15 @@
         "electronics"
       ],
       "rating": null,
-      "currentRank": 1081,
+      "currentRank": 1092,
       "previousRank": 453,
       "rankChange": 0,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.704Z",
-      "updatedAt": "2026-11-25T02:05:12.560Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:23.405Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "elixira-elixira": {
       "id": "elixira-elixira",
@@ -5632,15 +5632,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 241,
+      "currentRank": 234,
       "previousRank": 223,
       "rankChange": 0,
       "currentReviews": 7,
       "previousReviews": 7,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.699Z",
-      "updatedAt": "2026-11-25T02:05:06.949Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:17.169Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "tokyo-tokyo": {
       "id": "tokyo-tokyo",
@@ -5655,15 +5655,15 @@
         "hardware"
       ],
       "rating": "100%",
-      "currentRank": 892,
+      "currentRank": 1054,
       "previousRank": 651,
       "rankChange": 199,
       "currentReviews": 6,
       "previousReviews": 6,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.694Z",
-      "updatedAt": "2026-11-25T02:15:53.155Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:28:55.069Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "stylescape-stylescape": {
       "id": "stylescape-stylescape",
@@ -5678,15 +5678,15 @@
         "bags"
       ],
       "rating": "100%",
-      "currentRank": 347,
+      "currentRank": 333,
       "previousRank": 452,
       "rankChange": 232,
       "currentReviews": 5,
       "previousReviews": 5,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.688Z",
-      "updatedAt": "2026-11-25T01:35:54.798Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T01:45:50.109Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "etheryx-etheryx": {
       "id": "etheryx-etheryx",
@@ -5701,15 +5701,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 315,
+      "currentRank": 305,
       "previousRank": 219,
       "rankChange": 1,
       "currentReviews": 9,
       "previousReviews": 9,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.644Z",
-      "updatedAt": "2026-11-25T01:59:47.798Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:25.556Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "elysian-elysian": {
       "id": "elysian-elysian",
@@ -5724,15 +5724,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "50%",
-      "currentRank": 1223,
+      "currentRank": 1282,
       "previousRank": 218,
       "rankChange": -230,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.639Z",
-      "updatedAt": "2026-11-25T02:30:35.504Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:45:15.571Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "aesthetic-aesthetic": {
       "id": "aesthetic-aesthetic",
@@ -5747,15 +5747,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 346,
+      "currentRank": 338,
       "previousRank": 792,
       "rankChange": -1,
       "currentReviews": 7,
       "previousReviews": 7,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.628Z",
-      "updatedAt": "2026-11-25T02:22:49.264Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:36:22.903Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "creator-creator": {
       "id": "creator-creator",
@@ -5770,15 +5770,15 @@
         "entertainment"
       ],
       "rating": "100%",
-      "currentRank": 1243,
+      "currentRank": 1300,
       "previousRank": 213,
       "rankChange": -232,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.621Z",
-      "updatedAt": "2026-11-25T02:06:26.628Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:18:43.822Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "erickson-erickson": {
       "id": "erickson-erickson",
@@ -5793,15 +5793,15 @@
         "garden"
       ],
       "rating": "50%",
-      "currentRank": 1141,
+      "currentRank": 1335,
       "previousRank": 443,
       "rankChange": 234,
       "currentReviews": 4,
       "previousReviews": 4,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.576Z",
-      "updatedAt": "2026-11-25T02:14:56.496Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:27:52.929Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "sydney-sydney": {
       "id": "sydney-sydney",
@@ -5816,15 +5816,15 @@
         "jewelry-and-accessories"
       ],
       "rating": "79%",
-      "currentRank": 845,
+      "currentRank": 847,
       "previousRank": 643,
       "rankChange": -3,
       "currentReviews": 14,
       "previousReviews": 14,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.561Z",
-      "updatedAt": "2026-11-25T02:30:28.940Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:44:59.294Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "retro-retro": {
       "id": "retro-retro",
@@ -5839,15 +5839,15 @@
         "clothing"
       ],
       "rating": "89%",
-      "currentRank": 223,
+      "currentRank": 289,
       "previousRank": 432,
       "rankChange": -2,
       "currentReviews": 19,
       "previousReviews": 19,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.522Z",
-      "updatedAt": "2026-11-25T01:59:45.203Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:24.955Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "noire-noire": {
       "id": "noire-noire",
@@ -5862,15 +5862,15 @@
         "pets"
       ],
       "rating": "100%",
-      "currentRank": 326,
+      "currentRank": 310,
       "previousRank": 782,
       "rankChange": 146,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.498Z",
-      "updatedAt": "2026-11-25T02:37:06.633Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:52:24.177Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "relax-relax": {
       "id": "relax-relax",
@@ -5885,15 +5885,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 109,
+      "currentRank": 115,
       "previousRank": 427,
       "rankChange": 5,
       "currentReviews": 28,
       "previousReviews": 28,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.492Z",
-      "updatedAt": "2026-11-25T02:22:45.820Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:36:19.618Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "creative-creative": {
       "id": "creative-creative",
@@ -5915,8 +5915,8 @@
       "previousReviews": 20,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.475Z",
-      "updatedAt": "2026-11-25T01:59:38.686Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:11.736Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "tailor-tailor": {
       "id": "tailor-tailor",
@@ -5931,15 +5931,15 @@
         "clothing"
       ],
       "rating": "92%",
-      "currentRank": 817,
+      "currentRank": 829,
       "previousRank": 420,
       "rankChange": 231,
       "currentReviews": 13,
       "previousReviews": 13,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.467Z",
-      "updatedAt": "2026-11-25T02:00:01.870Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:40.980Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "mode-mode": {
       "id": "mode-mode",
@@ -5954,15 +5954,15 @@
         "electronics"
       ],
       "rating": "92%",
-      "currentRank": 336,
+      "currentRank": 318,
       "previousRank": 629,
       "rankChange": 212,
       "currentReviews": 13,
       "previousReviews": 13,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.457Z",
-      "updatedAt": "2026-11-25T02:05:08.319Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:18.521Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "shine-shine": {
       "id": "shine-shine",
@@ -5977,15 +5977,15 @@
         "wellness"
       ],
       "rating": "96%",
-      "currentRank": 104,
+      "currentRank": 109,
       "previousRank": 599,
       "rankChange": 453,
       "currentReviews": 25,
       "previousReviews": 25,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.426Z",
-      "updatedAt": "2026-11-25T02:50:01.465Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T03:06:34.493Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "monk-monk": {
       "id": "monk-monk",
@@ -6007,8 +6007,8 @@
       "previousReviews": 27,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.421Z",
-      "updatedAt": "2026-11-25T02:05:04.762Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:11.761Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "distinctive-distinctive": {
       "id": "distinctive-distinctive",
@@ -6023,15 +6023,15 @@
         "clothing"
       ],
       "rating": "92%",
-      "currentRank": 158,
+      "currentRank": 155,
       "previousRank": 777,
       "rankChange": 388,
       "currentReviews": 37,
       "previousReviews": 37,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.410Z",
-      "updatedAt": "2026-11-25T01:59:43.296Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:19.522Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "purely-purely": {
       "id": "purely-purely",
@@ -6046,15 +6046,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 351,
+      "currentRank": 342,
       "previousRank": 403,
       "rankChange": 233,
       "currentReviews": 19,
       "previousReviews": 19,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.366Z",
-      "updatedAt": "2026-11-25T02:12:55.501Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:25:44.601Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "mandolin-mandolin": {
       "id": "mandolin-mandolin",
@@ -6069,15 +6069,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 829,
+      "currentRank": 825,
       "previousRank": 169,
       "rankChange": -446,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.347Z",
-      "updatedAt": "2026-11-25T02:00:02.146Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:40.682Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "stockholm-stockholm": {
       "id": "stockholm-stockholm",
@@ -6092,15 +6092,15 @@
         "home"
       ],
       "rating": "95%",
-      "currentRank": 349,
+      "currentRank": 339,
       "previousRank": 612,
       "rankChange": -223,
       "currentReviews": 19,
       "previousReviews": 19,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.337Z",
-      "updatedAt": "2026-11-25T02:22:49.536Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:36:23.044Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "nova-nova": {
       "id": "nova-nova",
@@ -6115,15 +6115,15 @@
         "sports"
       ],
       "rating": "100%",
-      "currentRank": 793,
+      "currentRank": 791,
       "previousRank": 163,
       "rankChange": 2,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.327Z",
-      "updatedAt": "2026-11-25T02:45:05.096Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T03:01:05.916Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "infinity-infinity": {
       "id": "infinity-infinity",
@@ -6138,15 +6138,15 @@
         "electronics"
       ],
       "rating": "67%",
-      "currentRank": 809,
+      "currentRank": 798,
       "previousRank": 161,
       "rankChange": -232,
       "currentReviews": 6,
       "previousReviews": 6,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.317Z",
-      "updatedAt": "2026-11-25T02:05:10.232Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:20.874Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "volume-volume": {
       "id": "volume-volume",
@@ -6161,15 +6161,15 @@
         "clothing"
       ],
       "rating": "94%",
-      "currentRank": 63,
+      "currentRank": 57,
       "previousRank": 158,
       "rankChange": -263,
       "currentReviews": 32,
       "previousReviews": 32,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.272Z",
-      "updatedAt": "2026-11-25T01:59:38.382Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:10.966Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "multi-multi": {
       "id": "multi-multi",
@@ -6184,15 +6184,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 148,
+      "currentRank": 158,
       "previousRank": 393,
       "rankChange": 200,
       "currentReviews": 20,
       "previousReviews": 20,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.246Z",
-      "updatedAt": "2026-11-25T02:05:05.994Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:14.453Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "divine-divine": {
       "id": "divine-divine",
@@ -6207,15 +6207,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 333,
+      "currentRank": 316,
       "previousRank": 146,
       "rankChange": 1,
       "currentReviews": 18,
       "previousReviews": 18,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.230Z",
-      "updatedAt": "2026-11-25T01:59:48.891Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:26.335Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "mojave-mojave": {
       "id": "mojave-mojave",
@@ -6230,15 +6230,15 @@
         "clothing"
       ],
       "rating": "86%",
-      "currentRank": 330,
+      "currentRank": 317,
       "previousRank": 589,
       "rankChange": -5,
       "currentReviews": 29,
       "previousReviews": 29,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.156Z",
-      "updatedAt": "2026-11-25T01:59:48.616Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:26.481Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "kidu-kidu": {
       "id": "kidu-kidu",
@@ -6253,15 +6253,15 @@
         "kids"
       ],
       "rating": "100%",
-      "currentRank": 184,
+      "currentRank": 237,
       "previousRank": 366,
       "rankChange": 3,
       "currentReviews": 25,
       "previousReviews": 25,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.122Z",
-      "updatedAt": "2026-11-25T02:33:02.508Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:47:54.406Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "mono-mono": {
       "id": "mono-mono",
@@ -6276,15 +6276,15 @@
         "clothing"
       ],
       "rating": "98%",
-      "currentRank": 54,
+      "currentRank": 51,
       "previousRank": 585,
       "rankChange": 454,
       "currentReviews": 119,
       "previousReviews": 119,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.116Z",
-      "updatedAt": "2026-11-25T01:59:36.120Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:09.982Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "marble-marble": {
       "id": "marble-marble",
@@ -6299,15 +6299,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 262,
+      "currentRank": 252,
       "previousRank": 353,
       "rankChange": 235,
       "currentReviews": 34,
       "previousReviews": 34,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.054Z",
-      "updatedAt": "2026-11-25T01:59:46.566Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:23.762Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "viola-viola": {
       "id": "viola-viola",
@@ -6322,15 +6322,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 121,
+      "currentRank": 125,
       "previousRank": 728,
       "rankChange": 8,
       "currentReviews": 95,
       "previousReviews": 95,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:17.029Z",
-      "updatedAt": "2026-11-25T01:59:41.241Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:17.070Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "unicorn-unicorn": {
       "id": "unicorn-unicorn",
@@ -6345,15 +6345,15 @@
         "home"
       ],
       "rating": "62%",
-      "currentRank": 767,
+      "currentRank": 763,
       "previousRank": 562,
       "rankChange": -166,
       "currentReviews": 21,
       "previousReviews": 21,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.992Z",
-      "updatedAt": "2026-11-25T02:22:55.250Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:36:30.138Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "nordic-nordic": {
       "id": "nordic-nordic",
@@ -6368,15 +6368,15 @@
         "home"
       ],
       "rating": "100%",
-      "currentRank": 157,
+      "currentRank": 148,
       "previousRank": 561,
       "rankChange": -257,
       "currentReviews": 28,
       "previousReviews": 28,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.987Z",
-      "updatedAt": "2026-11-25T02:22:47.064Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:36:20.407Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "boost-boost": {
       "id": "boost-boost",
@@ -6391,15 +6391,15 @@
         "toys"
       ],
       "rating": "87%",
-      "currentRank": 306,
+      "currentRank": 296,
       "previousRank": 559,
       "rankChange": 237,
       "currentReviews": 83,
       "previousReviews": 83,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.983Z",
-      "updatedAt": "2026-11-25T02:47:00.114Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T03:03:12.214Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "testament-testament": {
       "id": "testament-testament",
@@ -6414,15 +6414,15 @@
         "clothing"
       ],
       "rating": "96%",
-      "currentRank": 98,
+      "currentRank": 96,
       "previousRank": 563,
       "rankChange": -168,
       "currentReviews": 400,
       "previousReviews": 400,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.940Z",
-      "updatedAt": "2026-11-25T01:59:40.021Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:14.503Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "fashionopolism-fashionopolism": {
       "id": "fashionopolism-fashionopolism",
@@ -6437,15 +6437,15 @@
         "clothing"
       ],
       "rating": "96%",
-      "currentRank": 100,
+      "currentRank": 93,
       "previousRank": 93,
       "rankChange": -235,
       "currentReviews": 252,
       "previousReviews": 252,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.930Z",
-      "updatedAt": "2026-11-25T01:59:40.156Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:14.190Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "monaco-monaco": {
       "id": "monaco-monaco",
@@ -6460,15 +6460,15 @@
         "clothing"
       ],
       "rating": "97%",
-      "currentRank": 145,
+      "currentRank": 154,
       "previousRank": 128,
       "rankChange": -461,
       "currentReviews": 35,
       "previousReviews": 35,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.924Z",
-      "updatedAt": "2026-11-25T01:59:42.340Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:19.091Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "avante-avante": {
       "id": "avante-avante",
@@ -6483,15 +6483,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 57,
+      "currentRank": 55,
       "previousRank": 556,
       "rankChange": 452,
       "currentReviews": 125,
       "previousReviews": 125,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.897Z",
-      "updatedAt": "2026-11-25T01:59:36.953Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:10.627Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "highlight-highlight": {
       "id": "highlight-highlight",
@@ -6506,15 +6506,15 @@
         "clothing"
       ],
       "rating": "96%",
-      "currentRank": 151,
+      "currentRank": 144,
       "previousRank": 96,
       "rankChange": -456,
       "currentReviews": 50,
       "previousReviews": 50,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.879Z",
-      "updatedAt": "2026-11-25T01:59:42.751Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:18.196Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "split-split": {
       "id": "split-split",
@@ -6529,15 +6529,15 @@
         "clothing"
       ],
       "rating": "98%",
-      "currentRank": 156,
+      "currentRank": 165,
       "previousRank": 545,
       "rankChange": 216,
       "currentReviews": 244,
       "previousReviews": 244,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.866Z",
-      "updatedAt": "2026-11-25T01:59:43.160Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:20.281Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "digital-digital": {
       "id": "digital-digital",
@@ -6552,15 +6552,15 @@
         "electronics"
       ],
       "rating": "90%",
-      "currentRank": 305,
+      "currentRank": 294,
       "previousRank": 538,
       "rankChange": 224,
       "currentReviews": 39,
       "previousReviews": 39,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.839Z",
-      "updatedAt": "2026-11-25T02:05:07.638Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:17.936Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "icon-icon": {
       "id": "icon-icon",
@@ -6575,15 +6575,15 @@
         "clothing"
       ],
       "rating": "94%",
-      "currentRank": 102,
+      "currentRank": 101,
       "previousRank": 318,
       "rankChange": 2,
       "currentReviews": 371,
       "previousReviews": 371,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.811Z",
-      "updatedAt": "2026-11-25T01:59:40.290Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:15.114Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "motto-motto": {
       "id": "motto-motto",
@@ -6598,15 +6598,15 @@
         "electronics"
       ],
       "rating": "93%",
-      "currentRank": 233,
+      "currentRank": 227,
       "previousRank": 707,
       "rankChange": -100,
       "currentReviews": 27,
       "previousReviews": 27,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.792Z",
-      "updatedAt": "2026-11-25T02:05:06.813Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:16.874Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "essence-essence": {
       "id": "essence-essence",
@@ -6621,15 +6621,15 @@
         "sports"
       ],
       "rating": "100%",
-      "currentRank": 307,
+      "currentRank": 295,
       "previousRank": 72,
       "rankChange": 1,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.785Z",
-      "updatedAt": "2026-11-25T02:45:00.143Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T03:01:00.918Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "combine-combine": {
       "id": "combine-combine",
@@ -6651,8 +6651,8 @@
       "previousReviews": 52,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.777Z",
-      "updatedAt": "2026-11-25T02:22:46.374Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:36:19.764Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "streamline-streamline": {
       "id": "streamline-streamline",
@@ -6667,15 +6667,15 @@
         "clothing"
       ],
       "rating": "95%",
-      "currentRank": 113,
+      "currentRank": 116,
       "previousRank": 82,
       "rankChange": -292,
       "currentReviews": 336,
       "previousReviews": 336,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.747Z",
-      "updatedAt": "2026-11-25T01:59:40.835Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:16.195Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "foodie-foodie": {
       "id": "foodie-foodie",
@@ -6690,15 +6690,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 163,
+      "currentRank": 157,
       "previousRank": 701,
       "rankChange": 634,
       "currentReviews": 24,
       "previousReviews": 24,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.726Z",
-      "updatedAt": "2026-11-25T02:12:53.579Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:25:42.717Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "flux-flux": {
       "id": "flux-flux",
@@ -6713,15 +6713,15 @@
         "wellness"
       ],
       "rating": "100%",
-      "currentRank": 85,
+      "currentRank": 89,
       "previousRank": 519,
       "rankChange": 221,
       "currentReviews": 40,
       "previousReviews": 40,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.692Z",
-      "updatedAt": "2026-11-25T02:50:01.327Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T03:06:34.342Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "envy-envy": {
       "id": "envy-envy",
@@ -6743,8 +6743,8 @@
       "previousReviews": 277,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.664Z",
-      "updatedAt": "2026-11-25T01:59:41.107Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:16.483Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "showcase-showcase": {
       "id": "showcase-showcase",
@@ -6759,15 +6759,15 @@
         "bags"
       ],
       "rating": "96%",
-      "currentRank": 91,
+      "currentRank": 90,
       "previousRank": 299,
       "rankChange": -219,
       "currentReviews": 147,
       "previousReviews": 147,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.658Z",
-      "updatedAt": "2026-11-25T01:35:53.842Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T01:45:48.949Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "flawless-flawless": {
       "id": "flawless-flawless",
@@ -6789,8 +6789,8 @@
       "previousReviews": 49,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.651Z",
-      "updatedAt": "2026-11-25T02:30:19.487Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:44:31.708Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "yuva-yuva": {
       "id": "yuva-yuva",
@@ -6805,15 +6805,15 @@
         "electronics"
       ],
       "rating": "95%",
-      "currentRank": 90,
+      "currentRank": 103,
       "previousRank": 699,
       "rankChange": -104,
       "currentReviews": 130,
       "previousReviews": 130,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.644Z",
-      "updatedAt": "2026-11-25T02:05:05.033Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:12.212Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "ultra-ultra": {
       "id": "ultra-ultra",
@@ -6835,8 +6835,8 @@
       "previousReviews": 34,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.629Z",
-      "updatedAt": "2026-11-25T02:05:04.623Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:11.600Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "boutique-boutique": {
       "id": "boutique-boutique",
@@ -6851,15 +6851,15 @@
         "clothing"
       ],
       "rating": "100%",
-      "currentRank": 534,
+      "currentRank": 687,
       "previousRank": 55,
       "rankChange": -234,
       "currentReviews": 24,
       "previousReviews": 24,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.621Z",
-      "updatedAt": "2026-11-25T01:59:54.095Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:36.183Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "minion-minion": {
       "id": "minion-minion",
@@ -6874,15 +6874,15 @@
         "pets"
       ],
       "rating": "82%",
-      "currentRank": 345,
+      "currentRank": 325,
       "previousRank": 797,
       "rankChange": 510,
       "currentReviews": 33,
       "previousReviews": 33,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.613Z",
-      "updatedAt": "2026-11-25T02:37:06.770Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:52:24.327Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "habitat-habitat": {
       "id": "habitat-habitat",
@@ -6897,15 +6897,15 @@
         "home"
       ],
       "rating": "97%",
-      "currentRank": 127,
+      "currentRank": 131,
       "previousRank": 56,
       "rankChange": -744,
       "currentReviews": 64,
       "previousReviews": 64,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.589Z",
-      "updatedAt": "2026-11-25T02:22:46.513Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:36:19.908Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "woodstock-woodstock": {
       "id": "woodstock-woodstock",
@@ -6920,15 +6920,15 @@
         "electronics"
       ],
       "rating": "97%",
-      "currentRank": 89,
+      "currentRank": 91,
       "previousRank": 505,
       "rankChange": -2,
       "currentReviews": 63,
       "previousReviews": 63,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.569Z",
-      "updatedAt": "2026-11-25T02:05:04.897Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:12.056Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "ascent-ascent": {
       "id": "ascent-ascent",
@@ -6943,15 +6943,15 @@
         "electronics"
       ],
       "rating": "96%",
-      "currentRank": 122,
+      "currentRank": 130,
       "previousRank": 45,
       "rankChange": -3,
       "currentReviews": 80,
       "previousReviews": 80,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.563Z",
-      "updatedAt": "2026-11-25T02:05:05.581Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:13.287Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "canopy-canopy": {
       "id": "canopy-canopy",
@@ -6966,15 +6966,15 @@
         "food-and-drink"
       ],
       "rating": "95%",
-      "currentRank": 76,
+      "currentRank": 77,
       "previousRank": 504,
       "rankChange": 455,
       "currentReviews": 171,
       "previousReviews": 171,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.543Z",
-      "updatedAt": "2026-11-25T02:12:52.885Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:25:41.969Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "taiga-taiga": {
       "id": "taiga-taiga",
@@ -6989,15 +6989,15 @@
         "bags"
       ],
       "rating": "100%",
-      "currentRank": 81,
+      "currentRank": 79,
       "previousRank": 498,
       "rankChange": 218,
       "currentReviews": 55,
       "previousReviews": 55,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.527Z",
-      "updatedAt": "2026-11-25T01:35:53.703Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T01:45:48.797Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "warehouse-warehouse": {
       "id": "warehouse-warehouse",
@@ -7012,15 +7012,15 @@
         "electronics"
       ],
       "rating": "84%",
-      "currentRank": 48,
+      "currentRank": 41,
       "previousRank": 491,
       "rankChange": 220,
       "currentReviews": 326,
       "previousReviews": 326,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.423Z",
-      "updatedAt": "2026-11-25T02:05:04.219Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:10.855Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "blum-blum": {
       "id": "blum-blum",
@@ -7035,15 +7035,15 @@
         "clothing"
       ],
       "rating": "99%",
-      "currentRank": 58,
+      "currentRank": 54,
       "previousRank": 31,
       "rankChange": 0,
-      "currentReviews": 271,
+      "currentReviews": 272,
       "previousReviews": 271,
-      "reviewsChange": 0,
+      "reviewsChange": 1,
       "createdAt": "2025-07-18T03:53:16.407Z",
-      "updatedAt": "2026-11-25T01:59:37.246Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:10.269Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "concept-concept": {
       "id": "concept-concept",
@@ -7058,15 +7058,15 @@
         "electronics"
       ],
       "rating": "99%",
-      "currentRank": 28,
+      "currentRank": 30,
       "previousRank": 26,
       "rankChange": -236,
       "currentReviews": 675,
       "previousReviews": 675,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.380Z",
-      "updatedAt": "2026-11-25T02:05:03.527Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:10.419Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "stiletto-stiletto": {
       "id": "stiletto-stiletto",
@@ -7081,15 +7081,15 @@
         "clothing"
       ],
       "rating": "92%",
-      "currentRank": 34,
+      "currentRank": 33,
       "previousRank": 482,
       "rankChange": -283,
       "currentReviews": 156,
       "previousReviews": 156,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.368Z",
-      "updatedAt": "2026-11-25T01:59:35.286Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:08.812Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "enterprise-enterprise": {
       "id": "enterprise-enterprise",
@@ -7104,15 +7104,15 @@
         "electronics"
       ],
       "rating": "90%",
-      "currentRank": 24,
+      "currentRank": 25,
       "previousRank": 260,
       "rankChange": 7,
       "currentReviews": 113,
       "previousReviews": 113,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.347Z",
-      "updatedAt": "2026-11-25T02:05:03.392Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:17:10.279Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "pipeline-pipeline": {
       "id": "pipeline-pipeline",
@@ -7127,15 +7127,15 @@
         "clothing"
       ],
       "rating": "97%",
-      "currentRank": 49,
+      "currentRank": 46,
       "previousRank": 20,
       "rankChange": -652,
       "currentReviews": 209,
       "previousReviews": 209,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.342Z",
-      "updatedAt": "2026-11-25T01:59:35.698Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:09.260Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "hyper-hyper": {
       "id": "hyper-hyper",
@@ -7150,15 +7150,15 @@
         "home"
       ],
       "rating": "99%",
-      "currentRank": 27,
+      "currentRank": 32,
       "previousRank": 477,
       "rankChange": -193,
       "currentReviews": 531,
       "previousReviews": 531,
       "reviewsChange": 0,
       "createdAt": "2025-07-18T03:53:16.324Z",
-      "updatedAt": "2026-11-25T02:22:44.973Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:36:16.396Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "megastore-megastore": {
       "id": "megastore-megastore",
@@ -7173,15 +7173,15 @@
         "clothing"
       ],
       "rating": "67%",
-      "currentRank": 848,
+      "currentRank": 841,
       "previousRank": 745,
       "rankChange": 134,
       "currentReviews": 3,
       "previousReviews": 3,
       "reviewsChange": 0,
       "createdAt": "2025-06-18T07:44:35.761Z",
-      "updatedAt": "2026-11-25T02:00:02.694Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:41.563Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "genie-genie": {
       "id": "genie-genie",
@@ -7196,15 +7196,15 @@
         "kids"
       ],
       "rating": "100%",
-      "currentRank": 791,
+      "currentRank": 782,
       "previousRank": 210,
       "rankChange": -1,
       "currentReviews": 1,
       "previousReviews": 1,
       "reviewsChange": 0,
       "createdAt": "2025-06-17T07:44:35.882Z",
-      "updatedAt": "2026-11-25T02:33:04.991Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:47:59.481Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "maya-maya": {
       "id": "maya-maya",
@@ -7219,15 +7219,15 @@
         "clothing"
       ],
       "rating": "71%",
-      "currentRank": 807,
+      "currentRank": 800,
       "previousRank": 451,
       "rankChange": 2,
       "currentReviews": 7,
       "previousReviews": 7,
       "reviewsChange": 0,
       "createdAt": "2025-06-04T07:44:35.901Z",
-      "updatedAt": "2026-11-25T02:00:01.459Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:39.807Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "carbon-carbon": {
       "id": "carbon-carbon",
@@ -7242,15 +7242,15 @@
         "clothing"
       ],
       "rating": "90%",
-      "currentRank": 322,
+      "currentRank": 309,
       "previousRank": 160,
       "rankChange": 1,
       "currentReviews": 10,
       "previousReviews": 10,
       "reviewsChange": 0,
       "createdAt": "2025-05-15T07:44:35.725Z",
-      "updatedAt": "2026-11-25T01:59:48.207Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:11:25.864Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "loka-loka": {
       "id": "loka-loka",
@@ -7265,15 +7265,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 781,
+      "currentRank": 767,
       "previousRank": 429,
       "rankChange": 0,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2025-05-13T07:44:36.489Z",
-      "updatedAt": "2026-11-25T02:12:58.635Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:25:48.085Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "noblesse-noblesse": {
       "id": "noblesse-noblesse",
@@ -7288,15 +7288,15 @@
         "food-and-drink"
       ],
       "rating": "100%",
-      "currentRank": 818,
+      "currentRank": 827,
       "previousRank": 240,
       "rankChange": 238,
       "currentReviews": 8,
       "previousReviews": 8,
       "reviewsChange": 0,
       "createdAt": "2025-04-11T07:44:36.498Z",
-      "updatedAt": "2026-11-25T02:12:59.044Z",
-      "fetchedAt": "2026-11-25T03:34:20.379Z"
+      "updatedAt": "2026-11-26T02:25:48.998Z",
+      "fetchedAt": "2026-11-26T03:32:44.793Z"
     },
     "expression-innovate": {
       "id": "expression-innovate",
@@ -22719,15 +22719,15 @@
         "jewelry-and-accessories"
       ],
       "rating": null,
-      "currentRank": 796,
+      "currentRank": 794,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-10-08T00:47:33.309Z",
-      "updatedAt": "2026-11-25T02:30:28.392Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:57.245Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "vetro-arrok": {
       "id": "vetro-arrok",
@@ -24720,15 +24720,15 @@
         "entertainment"
       ],
       "rating": null,
-      "currentRank": 798,
+      "currentRank": 830,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-10-09T00:47:50.250Z",
-      "updatedAt": "2026-11-25T02:06:25.671Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:18:42.413Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "elegance-brave": {
       "id": "elegance-brave",
@@ -30010,15 +30010,15 @@
         "electronics"
       ],
       "rating": "100%",
-      "currentRank": 762,
+      "currentRank": 759,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-10-15T00:48:08.383Z",
-      "updatedAt": "2026-11-25T02:05:09.955Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:20.557Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "adam-adam": {
       "id": "adam-adam",
@@ -30033,15 +30033,15 @@
         "entertainment"
       ],
       "rating": null,
-      "currentRank": 800,
+      "currentRank": 832,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-10-15T00:48:06.560Z",
-      "updatedAt": "2026-11-25T02:06:25.806Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:18:42.560Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "adam-leon": {
       "id": "adam-leon",
@@ -30309,15 +30309,15 @@
         "clothing"
       ],
       "rating": null,
-      "currentRank": 768,
+      "currentRank": 766,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-10-20T00:48:48.076Z",
-      "updatedAt": "2026-11-25T01:59:59.548Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:38.200Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "metropolitan-metropolitan": {
       "id": "metropolitan-metropolitan",
@@ -30332,15 +30332,15 @@
         "clothing"
       ],
       "rating": null,
-      "currentRank": 759,
+      "currentRank": 757,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-10-20T00:48:46.254Z",
-      "updatedAt": "2026-11-25T01:59:59.009Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:37.487Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "attitude-attitude": {
       "id": "attitude-attitude",
@@ -30355,15 +30355,15 @@
         "sports"
       ],
       "rating": null,
-      "currentRank": 763,
+      "currentRank": 760,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-10-20T00:48:42.866Z",
-      "updatedAt": "2026-11-25T02:45:04.652Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:01:05.474Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "metropolitan-obsession": {
       "id": "metropolitan-obsession",
@@ -30700,15 +30700,15 @@
         "shoes"
       ],
       "rating": null,
-      "currentRank": 1075,
+      "currentRank": 1076,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-10-22T00:49:01.917Z",
-      "updatedAt": "2026-11-25T02:40:35.592Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:56:14.911Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "triumph-toyli": {
       "id": "triumph-toyli",
@@ -30809,21 +30809,21 @@
       "author": "Boostify",
       "authorCountry": "Vietnam",
       "price": "$170 USD",
-      "isNew": true,
+      "isNew": false,
       "status": "Activated",
       "categories": [
         "food-and-drink"
       ],
       "rating": null,
-      "currentRank": 766,
+      "currentRank": 765,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-10-27T00:47:05.946Z",
-      "updatedAt": "2026-11-25T02:12:58.500Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:47.939Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "gumdrop-poppy": {
       "id": "gumdrop-poppy",
@@ -30907,15 +30907,15 @@
         "garden"
       ],
       "rating": null,
-      "currentRank": 1074,
+      "currentRank": 1075,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-10-30T00:48:42.708Z",
-      "updatedAt": "2026-11-25T02:14:55.730Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:27:51.350Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "olympus-dahlia": {
       "id": "olympus-dahlia",
@@ -31160,15 +31160,15 @@
         "pets"
       ],
       "rating": "100%",
-      "currentRank": 229,
+      "currentRank": 409,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-11-07T00:48:50.595Z",
-      "updatedAt": "2026-11-25T02:37:06.219Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:52:25.869Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "rare-rare": {
       "id": "rare-rare",
@@ -31176,22 +31176,22 @@
       "preset": "rare",
       "author": "Theme Studio",
       "authorCountry": "India",
-      "price": "$320 USD",
+      "price": "$350 USD",
       "isNew": true,
       "status": "Activated",
       "categories": [
         "jewelry-and-accessories"
       ],
       "rating": "100%",
-      "currentRank": 143,
+      "currentRank": 410,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 2,
       "previousReviews": 2,
       "reviewsChange": 0,
       "createdAt": "2026-11-07T00:48:47.056Z",
-      "updatedAt": "2026-11-25T02:30:20.449Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:44:40.226Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "rare-touch": {
       "id": "rare-touch",
@@ -31374,15 +31374,15 @@
         "clothing"
       ],
       "rating": null,
-      "currentRank": 22,
+      "currentRank": 23,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-11-11T00:48:19.302Z",
-      "updatedAt": "2026-11-25T01:59:34.730Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:11:08.369Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "omega-extract": {
       "id": "omega-extract",
@@ -31526,8 +31526,8 @@
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-11-18T00:54:34.013Z",
-      "updatedAt": "2026-11-25T02:44:57.876Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:00:58.972Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "coco-loco": {
       "id": "coco-loco",
@@ -31611,15 +31611,15 @@
         "electronics"
       ],
       "rating": null,
-      "currentRank": 14,
+      "currentRank": 13,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-11-24T01:15:20.099Z",
-      "updatedAt": "2026-11-25T02:05:03.109Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:17:09.963Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "multiply-myriad": {
       "id": "multiply-myriad",
@@ -31733,8 +31733,8 @@
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-11-25T01:17:35.686Z",
-      "updatedAt": "2026-11-25T02:50:01.188Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T03:06:34.196Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "crush-crush": {
       "id": "crush-crush",
@@ -31756,8 +31756,8 @@
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-11-25T01:17:33.214Z",
-      "updatedAt": "2026-11-25T01:44:21.247Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T01:54:53.881Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "blaze-blaze": {
       "id": "blaze-blaze",
@@ -31772,15 +31772,15 @@
         "food-and-drink"
       ],
       "rating": null,
-      "currentRank": 8,
+      "currentRank": 7,
       "previousRank": null,
       "rankChange": null,
       "currentReviews": 0,
       "previousReviews": 0,
       "reviewsChange": 0,
       "createdAt": "2026-11-25T01:17:23.339Z",
-      "updatedAt": "2026-11-25T02:12:52.192Z",
-      "fetchedAt": "2026-11-25T03:34:20.378Z"
+      "updatedAt": "2026-11-26T02:25:41.229Z",
+      "fetchedAt": "2026-11-26T03:32:44.792Z"
     },
     "blaze-midday": {
       "id": "blaze-midday",
